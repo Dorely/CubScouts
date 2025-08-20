@@ -1,8 +1,8 @@
 # Bobcat Bear Adventure Lesson Plan
 
-**Estimated Time to Complete: 2-3 den meetings (60 minutes each)**
+**Estimated Time to Complete: 2 den meetings (60 minutes each)**
 
-## Meeting 1: Getting to Know Your Den & Scout Basics (60 minutes)
+## Meeting 1: Scout Foundations & Den Bonding (60 minutes)
 
 ### Opening (5 minutes)
 - Welcome and introductions
@@ -10,86 +10,55 @@
 
 ### Activities
 
-#### Activity 1: Den Icebreaker Game (15 minutes)
+#### Activity 1: Den Icebreaker & Bonding (15 minutes)
 **Requirement 1: Get to know members of your den**
-- Line-up game: Cubs work together to arrange themselves by birthday, height, or alphabetically without talking
-- Den doodle creation: Each scout contributes to a collaborative drawing showing their interests
+- Line-up game: Cubs arrange themselves by birthday without talking
+- Quick den doodle: Each scout adds to collaborative drawing
 
-#### Activity 2: Scout Oath and Law (20 minutes)
+#### Activity 2: Scout Oath, Law & Three Points (20 minutes)
 **Requirements 2 & 3: Recite Scout Oath and Law; Learn the three points**
-- Bean bag toss while reciting Scout Law
-- Charades activity acting out the three points of Scout Oath (Duty to God and Country, Duty to Others, Duty to Self)
-- Create Scout Oath poster together
+- Learn Scout Oath and Law with bean bag toss game
+- Charades acting out three Scout Oath points
+- Quick Scout Oath poster creation
 
-#### Activity 3: Den Code of Conduct (15 minutes)
-**Requirement 4: Create den Code of Conduct**
-- Brainstorm as a group what makes a good den meeting
-- Write den rules together on poster paper
-- Everyone signs the code
+#### Activity 3: Den Code & Leadership (15 minutes)
+**Requirements 4 & 5: Den Code of Conduct and Denner position**
+- Rapid brainstorm for den rules, write and sign together
+- Learn denner responsibilities and choose first denner
+- Popsicle stick rotation system setup
 
 ### Closing (5 minutes)
-- Review what we learned
-- Closing circle
+- Review Scout Oath and preview next meeting
 
 ---
 
-## Meeting 2: Leadership & Scout Skills (60 minutes)
+## Meeting 2: Scout Skills & Protection (60 minutes)
 
 ### Opening (5 minutes)
-- Review Scout Oath together
-- Check-in on den code of conduct
+- Denner leads opening with Scout skills practice
 
 ### Activities
 
-#### Activity 1: Denner Responsibilities (15 minutes)
-**Requirement 5: Learn about denner position**
-- Create denner responsibilities chart
-- Popsicle stick selection system for rotating denner role
-- First denner chosen and begins duties
-
-#### Activity 2: Scout Skills Practice (25 minutes)
+#### Activity 1: Scout Skills Mastery (20 minutes)
 **Requirement 6: Demonstrate Cub Scout sign, salute, and handshake**
-- Demonstration and practice of each skill
-- Relay game using sign, salute, and handshake
-- Opening ceremony practice incorporating all three skills
+- Demonstration and intensive practice of all three skills
+- Scout skills relay game competition
+- Opening ceremony practice incorporating all skills
 
-#### Activity 3: Do Your Best Stories (10 minutes)
-**Requirement 7: Share "Do Your Best" example**
-- Circle time sharing when each scout did their best
-- Discussion of why doing your best is important
+#### Activity 2: Do Your Best & Protection (25 minutes)
+**Requirements 7 & 8: "Do Your Best" stories and Youth Protection**
+- Circle sharing: Each scout shares "Do Your Best" example (10 minutes)
+- Age-appropriate safety discussion and role-play (15 minutes)
+- Remind parents to complete home protection activities
 
-### Closing (5 minutes)
-- Practice Scout skills one more time
-- Plan for next meeting
-
----
-
-## Meeting 3: Protection and Review (60 minutes)
-
-### Opening (5 minutes)
-- Scout skills practice led by denner
-
-### Activities
-
-#### Activity 1: Child Protection Discussion (20 minutes)
-**Requirement 8: Youth Protection awareness**
-- Age-appropriate discussion of personal safety
-- Review key points from parent guide (parents should complete full guide at home)
-- Role-play appropriate responses to uncomfortable situations
-
-#### Activity 2: Den Flag Creation (25 minutes)
-**Requirements 1 & Overall Review**
-- Create den flag showing personality and creativity
-- Include elements representing Scout Oath points
-- Each scout contributes to design
-
-#### Activity 3: Bobcat Review Game (5 minutes)
-- Quick review game testing all requirements
-- Celebration of completed adventure
+#### Activity 3: Celebration & Den Flag (5 minutes)
+**Adventure Completion**
+- Quick den flag creation or signing
+- Bobcat adventure completion celebration
 
 ### Closing (5 minutes)
-- Closing ceremony using all Scout skills
-- Recognition of completion
+- Final Scout skills demonstration
+- Recognition ceremony
 
 ## Materials Needed
 - Bean bags

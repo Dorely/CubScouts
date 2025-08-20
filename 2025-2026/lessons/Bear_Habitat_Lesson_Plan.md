@@ -1,8 +1,8 @@
 # Bear Habitat Adventure Lesson Plan
 
-**Estimated Time to Complete: 3 den meetings (60 minutes each) + 1 outing**
+**Estimated Time to Complete: 2 den meetings (60 minutes each)**
 
-## Meeting 1: Planning Our Adventure (60 minutes)
+## Meeting 1: Planning & Preparation (60 minutes)
 
 ### Opening (5 minutes)
 - Opening ceremony
@@ -10,124 +10,49 @@
 
 ### Activities
 
-#### Activity 1: Cub Scout Six Essentials (15 minutes)
-**Requirement 1: Prepare with Six Essentials and appropriate clothing**
-- Learn the Six Essentials: first aid kit, water, flashlight, trail food, sun protection, whistle
-- Practice packing a backpack properly
-- Discuss weather-appropriate clothing for our planned walk
+#### Activity 1: Six Essentials & Route Planning (25 minutes)
+**Requirements 1, 2 & 3: Prepare, Know Before You Go, Choose the Right Path**
+- Learn Six Essentials: first aid kit, water, flashlight, trail food, sun protection, whistle
+- Practice packing backpack quickly
+- Use maps to identify one-mile route and learn about the area
+- Plan for upcoming pack hike or den walk
 
-#### Activity 2: Map Work and Route Planning (20 minutes)
-**Requirements 2 & 3: "Know Before You Go" and "Choose the Right Path"**
-- Use paper maps and/or digital devices to identify our one-mile route
-- Mark starting point, path, and ending point
-- Learn about the area we'll be walking (history, special features)
-- Guest speaker about local trail history (if available)
-
-#### Activity 3: Trash Planning and Fire Safety (15 minutes)
-**Requirements 4 & 6: "Trash Your Trash" and "Be Careful with Fire"**
-- Trash timeline game: match items to decomposition times
-- Make plan for personal trash and found trash
-- Learn fire danger rating system and check current local rating
-- Fire danger level matching game
+#### Activity 2: Leave No Trace Principles (25 minutes)
+**Requirements 4, 5, 6 & 8: Trash, Leave What You Find, Fire Safety, Be Kind**
+- Trash timeline game for decomposition awareness
+- Photography/sketching practice for "Leave What You Find"
+- Fire danger rating system and current conditions
+- Trail etiquette role-play scenarios
 
 ### Closing (5 minutes)
-- Review plans for our walk
-- Remind about items to bring
+- Review preparations for outdoor activity
+- Assign items to bring
 
 ---
 
-## Meeting 2: Wildlife and Visitor Preparation (60 minutes)
+## Meeting 2: Wildlife & Outdoor Practice (60 minutes)
 
 ### Opening (5 minutes)
-- Review Leave No Trace principles
-- Check weather and fire conditions for planned walk
+- Review Leave No Trace principles from last meeting
 
 ### Activities
 
-#### Activity 1: Wildlife Signs Preparation (25 minutes)
-**Requirement 7: "Respect Wildlife" - Identify six signs**
-- Learn to identify signs of mammals, birds, insects, reptiles
+#### Activity 1: Wildlife Signs Training (20 minutes)
+**Requirement 7: Respect Wildlife - Identify six signs**
+- Learn to identify tracks, scat, feathers, nests, holes, scratch marks
 - Practice looking up, down, and around
-- Study pictures/examples of:
-  - Tracks, scat, feathers, nests
-  - Holes, scratch marks, chewed items
-  - Sounds and movement patterns
-- Create wildlife observation sheet
+- Create wildlife observation checklist for outdoor activity
 
-#### Activity 2: Being Kind to Others (15 minutes)
-**Requirement 8: "Be Kind to Other Visitors"**
-- Discuss trail etiquette and courtesy
-- Role-play scenarios:
-  - Passing other hikers
-  - Sharing trail space
-  - Keeping noise levels appropriate
-  - Staying on designated paths
-
-#### Activity 3: Photography/Sketching Prep (10 minutes)
-**Requirement 5: "Leave What You Find"**
-- Prepare cameras or distribute sketchbooks
-- Practice taking pictures of nature without disturbing it
-- Plan what kinds of things to remember from our walk
+#### Activity 2: Simulated Outdoor Experience (30 minutes)
+**Requirement 9: Practice Leave No Trace on simulated walk**
+- Set up "trail" stations around meeting area
+- Practice all Leave No Trace principles at each station
+- Find planted wildlife signs and photograph/sketch nature items
+- Demonstrate trail courtesy and trash management
 
 ### Closing (5 minutes)
-- Final check of preparations
-- Confirm walk details
-
----
-
-## Meeting 3: The One-Mile Walk (Outing - 2+ hours)
-
-### Pre-Walk Preparation (15 minutes)
-- Buddy system assignments
-- Six Essentials check
-- Review Leave No Trace principles
-- Safety reminders
-
-### The Walk (90+ minutes)
-**Requirement 9: Go on one-mile walk practicing Leave No Trace**
-- **Start**: Group photo, route confirmation
-- **During Walk**: 
-  - Practice all Leave No Trace principles
-  - Identify wildlife signs (Requirement 7)
-  - Take photos/sketches of memorable items (Requirement 5)
-  - Demonstrate kindness to other visitors (Requirement 8)
-  - Manage trash appropriately (Requirement 4)
-  - Stay aware of fire safety (Requirement 6)
-- **End**: Reflection and group discussion
-
-### Post-Walk Activities (15 minutes)
-- Share favorite photos/sketches
-- Count wildlife signs found
-- Discuss how we followed Leave No Trace
-- Celebration of completed adventure
-
----
-
-## Meeting 4: Reflection and Review (60 minutes)
-
-### Opening (5 minutes)
-- Welcome back and celebration of completed walk
-
-### Activities
-
-#### Activity 1: Wildlife Signs Review (15 minutes)
-- Share and discuss wildlife signs observed
-- Create den chart of all signs found
-- Compare to preparation materials
-
-#### Activity 2: Photo/Sketch Sharing (20 minutes)
-- Display photos or sketches from walk
-- Each scout shares their favorite memory
-- Create den scrapbook page
-
-#### Activity 3: Leave No Trace Assessment (15 minutes)
-- Review how well den followed each principle
-- Discuss what we learned about taking care of nature
-- Plan how to use these skills on future outings
-
-### Closing (5 minutes)
-- Closing ceremony celebrating outdoor skills
-- Recognition of completed adventure
+- Celebrate adventure completion
+- Plan to use skills on upcoming pack hike/outing
 
 ## Materials Needed
 - Six Essentials items for demonstration

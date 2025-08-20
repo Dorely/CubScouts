@@ -1,8 +1,8 @@
 # Paws for Action Adventure Lesson Plan
 
-**Estimated Time to Complete: 3 den meetings (60 minutes each)**
+**Estimated Time to Complete: 2 den meetings (60 minutes each)**
 
-## Meeting 1: American Symbols and Flag Etiquette (60 minutes)
+## Meeting 1: American Pride & Service Learning (60 minutes)
 
 ### Opening (5 minutes)
 - Opening ceremony with flag presentation
@@ -10,107 +10,49 @@
 
 ### Activities
 
-#### Activity 1: Flag Education and Etiquette (25 minutes)
-**Requirement 1: Learn about the U.S. flag**
-- Flag trivia game covering:
-  - History of the flag
-  - Proper way to raise and lower
-  - Folding demonstration and practice
-  - Display guidelines and etiquette
+#### Activity 1: Flag Education & American Symbols (25 minutes)
+**Requirements 1 & 2: Learn about U.S. flag and identify 3 symbols**
+- Quick flag trivia covering history, folding, and etiquette
 - Practice flag ceremony with proper salutes
+- Learn about American symbols: Statue of Liberty, White House, Eagle, Liberty Bell
+- Choose favorite symbol and create quick craft (paint flag, draw symbol, or Play-Doh® creation)
 
-#### Activity 2: American Symbols (25 minutes)
-**Requirement 2: Identify 3 symbols, make craft of favorite**
-- Learn about symbols representing America:
-  - Statue of Liberty, White House, Eagle, Liberty Bell
-  - Uncle Sam, Mount Rushmore, Capitol Building
-- Choose favorite symbol
-- Create craft project:
-  - Paint U.S. flag
-  - Build Statue of Liberty replica
-  - Play-Doh® symbol creation
-  - Draw favorite symbol
+#### Activity 2: Nonprofit Learning & Service Planning (25 minutes)
+**Requirements 3 & 4: Learn about nonprofits and plan service project**
+- Learn about local nonprofits: mission, funding, volunteers
+- Interactive discussion about helping community
+- Choose and plan service project:
+  - Eyeglasses collection drive setup
+  - Dog toy making for shelters
+  - Care package assembly
+  - Food drive organization
 
 ### Closing (5 minutes)
-- Share symbol crafts
-- Preview next meeting's nonprofit focus
+- Share symbol crafts and confirm service project plans
 
 ---
 
-## Meeting 2: Learning About Nonprofits (60 minutes)
+## Meeting 2: Service in Action (60 minutes)
 
 ### Opening (5 minutes)
-- Review American symbols from last meeting
-- Discuss helping others in our community
+- Review American values and service connection
 
 ### Activities
 
-#### Activity 1: Nonprofit Research (30 minutes)
-**Requirement 3: Learn about nonprofit mission, funding, and volunteers**
-- Present information about local nonprofits:
-  - Food banks, animal shelters, environmental groups
-  - How they help the community
-  - Where their money comes from
-  - How volunteers help their mission
-- Interactive discussion about different ways to help
-- Guest speaker from local nonprofit (if available)
-
-#### Activity 2: Service Project Planning (20 minutes)
-**Requirement 4: Participate in service project (preparation)**
-- Choose service project for next meeting:
-  - Used eyeglasses collection drive
-  - Making dog toys for animal shelter
-  - Creating care packages for homeless
-  - Food drive collection
-- Plan materials needed
-- Assign roles and responsibilities
-
-### Closing (5 minutes)
-- Confirm service project plans
-- Remind scouts about items to bring
-
----
-
-## Meeting 3: Service Project and Reflection (60 minutes)
-
-### Opening (5 minutes)
-- Gather materials for service project
-- Review project goals
-
-### Activities
-
-#### Activity 1: Service Project Execution (40 minutes)
+#### Activity 1: Service Project Execution (45 minutes)
 **Requirement 4: Participate in service project**
-- **Option A: Eyeglasses Drive Setup**
-  - Create collection boxes
-  - Make informational flyers
-  - Set up collection station
-  - Plan distribution to families/community
+- **Option A**: Create collection boxes and flyers for eyeglasses drive
+- **Option B**: Make dog toys from old t-shirts for animal shelter
+- **Option C**: Assemble hygiene kits with encouraging notes for homeless shelter
+- **Option D**: Sort and package food items for food bank
 
-- **Option B: Animal Shelter Project**
-  - Make dog toys from old t-shirts
-  - Create enrichment items for shelter animals
-  - Package items for delivery
-
-- **Option C: Care Package Assembly**
-  - Assemble hygiene kits for homeless shelter
-  - Include items like soap, toothbrush, socks
-  - Add encouraging notes
-
-- **Option D: Food Drive Organization**
-  - Sort collected food items
-  - Create packages for food bank
-  - Learn about nutrition needs
-
-#### Activity 2: Reflection and Planning (10 minutes)
-- Discuss how the project helped others
-- Talk about feelings of helping community
-- Plan delivery or follow-up if needed
-- Connect service to citizenship concepts
+#### Activity 2: Citizenship Reflection (5 minutes)
+- Discuss how service connects to citizenship
+- Share feelings about helping others
+- Plan delivery or follow-up
 
 ### Closing (5 minutes)
-- Celebrate service accomplishment
-- Closing ceremony emphasizing citizenship
+- Celebrate service accomplishment and adventure completion
 
 ## Materials Needed
 - U.S. flag for demonstrations

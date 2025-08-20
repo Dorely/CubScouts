@@ -2,51 +2,53 @@
 
 *Key: **Pack/District Event***
 
+**📋 Fellowship Adventure Note:** This required adventure is completed as a take-home assignment with families over 12+ weeks (Sep-Dec). See Fellowship_Adventure_Take_Home.md for details.
+
 ---
 
 #### **August 2025**
 | Date | Event & Details |
 | :--- | :--- |
 | Aug 16 | **85th Birthday (Pack Event)** |
-| Aug 20 | Den Meeting / Adventure Activity |
-| Aug 27 | Den Meeting / Adventure Activity |
+| Aug 20 | **Bobcat Adventure Meeting 1** - Scout Foundations & Den Bonding |
+| Aug 27 | **Bobcat Adventure Meeting 2** - Scout Skills & Protection |
 
 #### **September 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Sep 3 | Den Meeting / Adventure Activity |
-| Sep 10 | Den Meeting / Adventure Activity |
+| Sep 3 | **Bear Strong Adventure Meeting 1** - Nutrition and Active Fun + **Fellowship Take-Home Begins** |
+| Sep 10 | **Bear Strong Adventure Meeting 2** - Personal Fitness and Wellness |
 | Sep 17 | **Pack Awards Ceremony** |
-| Sep 24 | Den Meeting / Adventure Activity |
+| Sep 24 | **Bear Habitat Adventure Meeting 1** - Planning & Preparation |
 | Sep 26–28| **Adventure Weekend**|
 
 #### **October 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Oct 1 | Den Meeting / Adventure Activity |
-| Oct 8 | Den Meeting / Elective Adventure |
+| Oct 1 | **Bear Habitat Adventure Meeting 2** - Wildlife & Outdoor Practice |
+| Oct 8 | **Paws for Action Adventure Meeting 1** - American Pride & Service Learning |
 | Oct 10-12| **Eerie Emery (Pack Event)** |
-| Oct 15 | Den Meeting / Elective Adventure |
-| Oct 22 | Den Meeting / Elective Adventure |
-| Oct 25 | **Chino Hike (Pack Event)** |
+| Oct 15 | **Paws for Action Adventure Meeting 2** - Service in Action |
+| Oct 22 | **Standing Tall Adventure Meeting 1** - Personal Safety Gear and Digital Safety |
+| Oct 25 | **Chino Hike (Pack Event)** - Practice Leave No Trace skills learned in Bear Habitat! |
 | Oct 29 | **Pack Halloween Party** |
 
 #### **November 2025**
 | Date | Event & Details |
 | :--- | :--- |
 | Nov 1 | **District Archery Shoot** |
-| Nov 5 | Den Meeting / Adventure Activity |
+| Nov 5 | **Standing Tall Adventure Meeting 2** - Safety Practice and Personal Space |
 | Nov 7–9 | **Joshua Tree Campout** |
-| Nov 12 | Den Meeting / Elective Adventure |
+| Nov 12 | **ALL REQUIRED ADVENTURES COMPLETE!** - Celebration & Elective Planning + **Fellowship Take-Home Check-in** |
 | Nov 19 | **Scoutsgiving & Awards** |
 | Nov 26 | **NO MEETING** |
 
 #### **December 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Dec 3 | Den Meeting / Adventure Activity |
+| Dec 3 | **Elective Adventure** - Begin choice electives |
 | Dec 6 | **In the Kiln (Pottery Outing)** |
-| Dec 10 | **Review Night / Advancement Check** |
+| Dec 10 | **Review Night / Advancement Check** + **Fellowship Take-Home Due** |
 | Dec 17 | **Pack Christmas Party** |
 | Dec 24 | **NO MEETING** (Christmas Eve) |
 | Dec 31 | **NO MEETING** (New Year's Eve) |
@@ -54,12 +56,12 @@
 #### **January 2026**
 | Date | Event & Details |
 | :--- | :--- |
-| Jan 7 | Den Meeting / Elective Adventure |
+| Jan 7 | **Elective Adventure** - Continue choice electives |
 | Jan 10 | **Stryker's Outing (Pack Event)** |
-| Jan 14 | Den Meeting / Elective Adventure |
-| Jan 21 | Den Meeting / Elective Adventure |
+| Jan 14 | **Elective Adventure** - Continue choice electives |
+| Jan 21 | **Elective Adventure** - Continue choice electives |
 | Jan 24 | **Pinewood Derby (Pack Event)** |
-| Jan 28 | Final Required Adventure Catch-up Night / Elective Spill-over. |
+| Jan 28 | **Elective Adventure** - Continue choice electives |
 
 #### **February 2026**
 | Date | Event & Details |
