@@ -1,181 +1,90 @@
-# Bobcat Adventure - Den Meeting Lesson Plan
-**Date:** August 20, 2025  
-**Duration:** 60 minutes  
-**Adventure:** Bobcat (Foundation Requirements)  
+### Revised Cub Scout Lesson Plans for Bobcat Adventure
+
+Here are the revised lesson plans for the Bobcat adventure, updated for accuracy to meet all listed requirements.
+
+---
+
+### **Bobcat Adventure - Den Meeting Lesson Plan (Revised)**
+
+**Date:** August 20, 2025
+**Duration:** 60 minutes
+**Adventure:** Bobcat (Foundation Requirements)
 **Age Group:** Bear Cubs (8-9 years old) - New to Scouting
 
-## Requirements Checklist - Sign Off During Meeting
-**Den Leader Initial & Date When Complete:**
+#### **Requirements Checklist - Sign Off During Meeting**
+*Den Leader Initial & Date When Complete:*
 
-**Bobcat Bear Requirements (2025):**
-- [ ] **Requirement 1:** Bear Line Up - Complete icebreaker activity *(Den Leader: _____ Date: _____)*
-- [ ] **Requirement 2:** Recite Scout Oath and Law with den *(Den Leader: _____ Date: _____)*
-- [ ] **Requirement 4:** Code of Conduct - Help create den code *(Den Leader: _____ Date: _____)*
-- [ ] **Requirement 6:** Bobcat Relay - Show sign, salute, handshake *(Den Leader: _____ Date: _____)*
-- [ ] **Requirement 8:** Child Protection Review - Parent activity *(Parent/Guardian: _____ Date: _____)*
+**Bobcat Bear Requirements:**
+- [ ] **Requirement 1:** Bear Line Up - Complete icebreaker activity *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 2:** Recite Scout Oath and Law with den *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 3:** Learn about the Scout Oath's three points *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 4:** Code of Conduct - Help create den code *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 5:** Learn about the denner position *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 6:** Bobcat Relay - Show sign, salute, handshake *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 7:** Share "Do Your Best" example *(Den Leader: \_\_\_\_\_ Date: \_\_\_\_\_)*
+- [ ] **Requirement 8:** Child Protection Review - Parent activity *(Parent/Guardian: \_\_\_\_\_ Date: \_\_\_\_\_)*
 
-**Notes:** Most requirements started today, completion expected at wrap-up meeting Aug 27.
+**Notes:** Most requirements will be covered today, with completion and final review at the wrap-up meeting on August 27.
 
-## Lesson Objectives
-By the end of this meeting, scouts will:
-- Get to know their den members through team building activities
-- Recite the Scout Oath and Scout Law with their den
-- Help create a den code of conduct
-- Demonstrate Cub Scout sign, salute, and handshake through games
-- Begin working toward their Bobcat Bear badge requirements
-
-## Materials Needed
+#### **Materials Needed**
 - Large poster or printout of Scout Oath and Scout Law
 - Poster board and markers for code of conduct
 - Name tags for all scouts
-- Relay race supplies (cones, balls, etc.)
+- Relay race supplies (cones, etc.)
 - "How to Protect Your Children from Child Abuse" parent guides
 - Bobcat badge tracking sheets
 - American flag
-- Den meeting space with room for activities
+- Small ball or talking stick for "Do Your Best" activity
 
-## Lesson Structure
+#### **Lesson Structure**
 
-### Opening Circle (5 minutes)
-- **Welcome:** Greet each scout by name and welcome families
+**Opening Circle (5 minutes)**
+- **Welcome:** Greet each scout and family.
 - **Introduction:** "Today we start our Cub Scout journey by learning to be a Bobcat!"
 - **Fun Fact:** "Bobcats are excellent climbers and hunters - they're prepared for anything, just like Cub Scouts!"
 
-### Activity 1: Bear Line Up (15 minutes)
-**Requirement 1:** Complete icebreaker activity to get to know den members
+**Activity 1: Bear Line Up (10 minutes)**
+**Requirement 1:** Complete icebreaker activity to get to know den members.
+- **Instructions:** Have scouts line up in different ways without talking (e.g., by height, birthday month, alphabetically by first name).
+- **Debrief:** Briefly discuss how they worked together and what they learned about each other.
 
-**Activity Instructions:**
-1. **Explain the Game:** "We're going to line up in different ways without talking!"
-2. **Round 1 - Height:** Scouts line up from shortest to tallest without speaking
-3. **Round 2 - Age:** Line up by age (oldest to youngest)
-4. **Round 3 - Birthday:** Line up by birthday month (January to December)
-5. **Round 4 - First Name:** Line up alphabetically by first name
+**Activity 2: Scout Oath, Law, and Motto (15 minutes)**
+**Requirement 2:** Recite the Scout Oath and Scout Law with den.
+**Requirement 3:** Learn about the Scout Oath. Identify the three points of the Scout Oath.
+**Requirement 7:** Share with your den, or family, a time when you demonstrated the Cub Scout motto “Do Your Best.”
 
-**Variations for Success:**
-- Allow pointing and gesturing
-- For struggling groups, allow whispering
-- Celebrate successful lineups with cheers
+- **Scout Oath and Law:**
+    - Display the poster and recite the Scout Oath and Law together as a den 2-3 times.
+    - **Explain the 3 Points of the Oath:** Briefly explain "Duty to God and country," "Duty to others," and "Duty to self."
+- **"Do Your Best" Sharing Circle:**
+    - Introduce the Cub Scout Motto: "Do Your Best."
+    - Pass a ball or talking stick. The scout holding it shares a time they did their best at something (e.g., at school, in a sport, helping at home). The leader should start with an example.
 
-**Debrief Questions:**
-- "What was challenging about this activity?"
-- "How did you work together as a team?"
-- "What did you learn about your den members?"
+**Activity 3: Den Leadership and Rules (12 minutes)**
+**Requirement 4:** With your den create a den Code of Conduct.
+**Requirement 5:** Learn about the denner position and responsibilities.
 
-### Activity 2: Scout Oath and Law with Den (12 minutes)
-**Requirement 2:** Recite the Scout Oath and Scout Law with den
+- **Create Den Code of Conduct:**
+    - Brainstorm ideas for den rules on a poster board. Keep rules positive ("We will..." instead of "Don't...").
+    - Have all scouts and leaders sign the poster.
+- **Denner Discussion:**
+    - Explain the denner position as a youth leader who helps the den leader.
+    - Discuss potential denner responsibilities like helping with setup, cleanup, or leading a game.
+    - Announce who will be the first denner for the next meeting.
 
-**Teaching Method:**
-1. **Circle Formation:** Everyone sits in a circle
-2. **Scout Oath Together:**
-   - Display on poster for reference
-   - Recite as a den with leader guidance
-   - Use hand motions to help memory
-   - Practice 2-3 times together
+**Activity 4: Bobcat Relay Games (13 minutes)**
+**Requirement 6:** Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake. Show how each is used.
 
-3. **Scout Law as Den:**
-   - Focus on key points for Bears
-   - Each scout can say one line if comfortable
-   - Emphasize saying it together as a team
-   - Discuss what it means to follow these principles
+- **Relay Setup:** Divide the den into two teams.
+- **Relay Rounds:**
+    1.  **Scout Sign Relay:** Run to a cone, show the proper sign, and explain it represents the two parts of the Scout Oath and Law.
+    2.  **Scout Salute Relay:** Run to a cone, give a proper salute to the flag, and explain it's a sign of respect.
+    3.  **Scout Handshake Relay:** Run to the den leader, give the proper handshake, and explain the two fingers mean you will help each other.
 
-4. **Den Unity:** 
-   - "When we say these together, we're united as a den"
-   - "These words guide how we treat each other"
-
-### Activity 3: Create Den Code of Conduct (10 minutes)
-**Requirement 4:** Help create den code of conduct
-
-**Activity Instructions:**
-1. **Brainstorm Session:** "What rules should our den have to be safe and fun?"
-2. **Guide Discussion:**
-   - How do we treat each other?
-   - What behavior helps everyone have fun?
-   - How do we stay safe during activities?
-   - What happens if someone breaks a rule?
-
-3. **Write the Code:**
-   - Use poster board and markers
-   - Let scouts contribute ideas
-   - Keep rules positive ("We will..." instead of "Don't...")
-   - Aim for 4-6 simple rules
-
-4. **Sign Together:**
-   - All scouts and leaders sign the code
-   - Post it where everyone can see
-   - Agree to follow it as a den
-
-### Activity 4: Bobcat Relay Games (13 minutes)
-**Requirement 6:** Show Cub Scout sign, salute, and handshake through relay
-
-**Relay Setup:**
-- Divide den into two teams
-- Set up cones at opposite end of room
-- Each team lines up behind starting line
-
-**Relay Rounds:**
-1. **Scout Sign Relay:** Run to cone, show proper sign, run back
-2. **Scout Salute Relay:** Run to cone, give proper salute, run back  
-3. **Scout Handshake Relay:** Run to cone, shake hands with leader, run back
-
-**Teaching Points:**
-- **Scout Sign:** Right hand, first two fingers up
-- **Scout Salute:** Same as sign, touch forehead
-- **Scout Handshake:** Left hand, firm grip
-
-**Celebration:** Cheer for both teams completing all requirements!
-
-### Closing Circle & Take-Home (5 minutes)
-
-**Review & Practice:**
-- Quick review: "Who can show me the Scout sign?"
-- "What's our motto?" ("Do Your Best!")
-- "What's one thing you learned today?"
-
-**Take-Home Assignment:**
-- Give parents/guardians the "How to Protect Your Children from Child Abuse" guide
-- Parents complete Requirement 8 review at home
-- Practice Scout Oath and Law with family
-- Review den code of conduct with family
-
-**Next Week Preview:**
-- "Next week we'll finish our Bobcat requirements and play games!"
-- "Keep practicing what we learned today!"
-
-**Closing:**
-- Everyone make the Scout sign
-- Say together: "Do Your Best!"
-
-## Notes for Den Leader
-
-### Adaptations:
-- **New Scouts:** Focus on making them feel welcome and comfortable
-- **Returning Scouts:** Have them help teach new scouts
-- **Different Learning Styles:** Use visual aids, actions, and repetition
-
-### Follow-up for Next Week (August 27):
-- Check which scouts have practiced at home
-- Play review games to reinforce learning
-- Complete any remaining Bobcat requirements
-- Plan fun activities to celebrate completing Bobcat
-
-### Parent Communication:
-- Send home a sheet with Oath, Law, motto, and instructions
-- Explain that parents/guardians need to help with practice
-- Emphasize this is about learning, not perfection
-
-### Safety Notes:
-- Keep activities calm and controlled for first meeting
-- Make sure all scouts feel included and successful
-- Watch for overwhelmed new scouts and provide extra support
-
-## Bobcat Bear Requirements Progress:
-✅ **Requirement 1:** Bear Line Up - Den team building activity
-✅ **Requirement 2:** Recite Scout Oath and Law with den
-✅ **Requirement 4:** Create den code of conduct
-✅ **Requirement 6:** Bobcat Relay - Demonstrate sign, salute, handshake
-🏠 **Requirement 8:** Child Protection Review - Parent homework
-
-**Remaining for next week:** Verify parent completion of Requirement 8 and receive Bobcat badge!
-
----
-*This lesson plan aligns with the 2025-2026 Bear Den Calendar and provides a solid foundation for new Cub Scouts beginning their scouting journey.*
+**Closing Circle & Take-Home (5 minutes)**
+- **Review:** Quickly ask scouts to show the sign and say the motto.
+- **Take-Home Assignment:**
+    - Give parents the "How to Protect Your Children from Child Abuse" guide for Requirement 8.
+    - Encourage families to practice the Scout Oath and Law.
+- **Next Week Preview:** "Next week we'll review what we've learned, play some more games, and you'll officially earn your Bobcat badge!"
+- **Closing:** Everyone makes the Scout sign and says, "Do Your Best!"
