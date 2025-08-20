@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.scouting.org)",
+      "WebSearch",
+      "WebSearch",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
