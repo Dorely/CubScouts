@@ -8,34 +8,34 @@
 | Date | Event & Details |
 | :--- | :--- |
 | Aug 16 | **85th Birthday (Pack Event)** |
-| Aug 20 | **Bobcat (Part 1):** Get to know den members, create a Code of Conduct, and demonstrate the sign, salute, & handshake. **Homework:** Parent-led "Protect Yourself" guide. |
-| Aug 27 | **Bobcat (Part 2):** Recite Oath & Law, learn the 3 points of the Oath, learn about the denner position, and share "Do Your Best" moments. |
+| Aug 20 | Den Meeting / Adventure Activity |
+| Aug 27 | Den Meeting / Adventure Activity |
 
 #### **September 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Sep 3 | **Bear Strong (Part 1):** Complete the 30-minute group activity and the 15-minute personal exercises (cardio, strength, flexibility). |
-| Sep 10 | **Bear Strong (Part 2):** Sample foods from 3 different food groups and do a 10-minute relaxing activity. **Homework:** Review Scouting Health Record with a parent. |
+| Sep 3 | Den Meeting / Adventure Activity |
+| Sep 10 | Den Meeting / Adventure Activity |
 | Sep 17 | **Pack Awards Ceremony** |
-| Sep 24 | **Standing Tall** Complete the Personal Space Bubble worksheet, and demo personal safety gear. **Homework:** Create a family digital device policy. Watch the Protect Yourself video |
+| Sep 24 | Den Meeting / Adventure Activity |
 | Sep 26–28| **Adventure Weekend**|
 
 #### **October 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Oct 1 | **Paws for Action** Learn US flag etiquette, create a US symbol craft, and learn about a local non-profit. Prepare for the service project. |
+| Oct 1 | Den Meeting / Adventure Activity |
 | Oct 8 | Den Meeting / Elective Adventure |
 | Oct 10-12| **Eerie Emery (Pack Event)** |
 | Oct 15 | Den Meeting / Elective Adventure |
 | Oct 22 | Den Meeting / Elective Adventure |
-| Oct 25 | **Chino Hike (Pack Event)**  → **Bear Habitat:** Complete the one-mile adventure walk, practicing all 9 Leave No Trace-based requirements. |
+| Oct 25 | **Chino Hike (Pack Event)** |
 | Oct 29 | **Pack Halloween Party** |
 
 #### **November 2025**
 | Date | Event & Details |
 | :--- | :--- |
 | Nov 1 | **District Archery Shoot** |
-| Nov 5 | **Bear Habitat (Wrap-up)** Share drawings/photos from the walk and discuss the six signs of wildlife you found. |
+| Nov 5 | Den Meeting / Adventure Activity |
 | Nov 7–9 | **Joshua Tree Campout** |
 | Nov 12 | Den Meeting / Elective Adventure |
 | Nov 19 | **Scoutsgiving & Awards** |
@@ -44,9 +44,9 @@
 #### **December 2025**
 | Date | Event & Details |
 | :--- | :--- |
-| Dec 3 | **Paws for Action** Execute the service project planned earlier. |
+| Dec 3 | Den Meeting / Adventure Activity |
 | Dec 6 | **In the Kiln (Pottery Outing)** |
-| Dec 10 | **Review Night / Advancement Check:** Confirm family completion of at-home adventure **Fellowship** and homework from other adventures. |
+| Dec 10 | **Review Night / Advancement Check** |
 | Dec 17 | **Pack Christmas Party** |
 | Dec 24 | **NO MEETING** (Christmas Eve) |
 | Dec 31 | **NO MEETING** (New Year's Eve) |

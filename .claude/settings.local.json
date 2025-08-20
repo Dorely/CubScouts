@@ -12,7 +12,8 @@
       "Bash(mkdir:*)",
       "Bash(move \"C:\\Users\\jonth\\Source\\repos\\CubScouts\\reference\\Standing_Tall_Adventure.md\" \"C:\\Users\\jonth\\Source\\repos\\CubScouts\\reference\\required\"\")",
       "Bash(move:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "mcp__serena__find_file"
     ],
     "deny": [],
     "ask": []
