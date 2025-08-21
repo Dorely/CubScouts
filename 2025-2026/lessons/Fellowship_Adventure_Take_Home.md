@@ -2,6 +2,55 @@
 
 **This adventure is designed to be completed at home with your family over the course of 2-4 weeks.**
 
+## ✅ Requirements Checklist
+
+### Week 1:
+- [ ] **Requirement 1:** With your parent or legal guardian talk about your family's faith traditions. Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft, work of art, or a food item that is part of your favorite family's faith tradition, holiday or celebration
+
+### Week 2:
+- [ ] **Requirement 2:** With your family, attend a religious service OR other gathering that shows how your family expresses reverence
+
+### Week 3:
+- [ ] **Requirement 3:** Carry out an act of kindness
+
+### Week 4:
+- [ ] **Requirement 4:** With your parent or legal guardian identify a religion or faith that is different from your own. Determine two things that it has in common with your family's beliefs
+
+**Alternative Completion:** This Adventure may be earned by completing the requirements above OR by completing a Religious Emblem of your family's choosing.
+
+---
+
+## 🛒 Materials & Supplies List
+
+### Items Families May Need to Purchase:
+- **Craft supplies for Requirement 1** (choose based on selected project) - $5-20
+  - **Thanksgiving treats**: Baking ingredients - $8-15
+  - **Clay sculpture**: Modeling clay, paint, brushes - $10-15
+  - **String art heart**: Embroidery hoops, yarn, nails, hammer - $8-12
+  - **Family tradition craft**: Varies by tradition - $5-20
+- **Documentation supplies** (optional) - $5-15
+  - Scrapbook or photo album - $5-10
+  - Extra photos printed - $3-8
+  - Decorative pens or markers - $3-5
+
+### Items Families May Already Have:
+- Camera or phone for photos
+- Basic craft supplies (scissors, glue, paper)
+- Books about different religions (library is free!)
+- Materials for acts of kindness (cards, envelopes)
+- Family religious or spiritual items
+
+### **Total Estimated Cost: $0-35** (many families may spend little to nothing)
+
+**💡 Cost-Saving Tips:**
+- Use library books for learning about different faiths
+- Choose simple acts of kindness that cost nothing
+- Make crafts with materials you already have at home
+- Take photos with your phone instead of buying a camera
+- Use a simple folder instead of an expensive scrapbook
+
+---
+
 ## Important Notes for Families
 
 - This adventure focuses on your family's faith traditions and beliefs

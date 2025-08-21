@@ -4,6 +4,50 @@
 
 *Note: Requirements 1, 2, and 3 should be completed at home with parents. This lesson plan focuses on den-appropriate activities and Requirement 4.*
 
+## ✅ Requirements Checklist
+
+### Meeting 1 & 2 Den Requirements:
+- [ ] **Requirement 4:** Identify common personal safety gear for your head, eyes, mouth, hands, and feet. List how each of these items protect you. Demonstrate the proper use of personal safety gear for an activity
+
+### Take-Home Requirements (Complete with Parents):
+- [ ] **Requirement 1:** With permission from your parent or legal guardian, watch the Protect Yourself Rules video for the Bear rank
+- [ ] **Requirement 2:** Complete the Personal Space Bubble worksheet that is part of the Protect Yourself Rules resources
+- [ ] **Requirement 3:** With your parent or legal guardian, set up a family policy for digital devices
+
+---
+
+## 🛒 Shopping & Materials List
+
+### Items to Purchase:
+- **Safety equipment for demonstration** - $30-50
+  - Various helmets (bike, sports) - $15-25 (borrow from scouts/families)
+  - Safety glasses/goggles - $5-10 (hardware stores, Dollar Tree)
+  - Work gloves, oven mitts - $8-12 (Dollar Tree, Walmart)
+  - Kitchen safety props (aprons) - $5-8
+- **Personal space activity materials** - $8-15
+  - Hula hoops (3-4) OR rope for circles - $8-15 (Dollar Tree, Walmart, Target)
+- **Parent communication materials** - $5-10
+  - Printing costs for worksheets and guides
+  - Folders or envelopes for take-home packets
+
+### Items You May Already Have:
+- Different types of footwear examples
+- Kitchen safety items (oven mitts, aprons)
+- Sports equipment examples
+- Computer/printer for worksheets
+- Bear Standing Tall Parent Notification (download from BSA)
+
+### **Total Estimated Cost: $20-40**
+
+**💡 Cost-Saving Tips:**
+- Borrow safety equipment from scout families
+- Use free printable worksheets from BSA website
+- Ask families to bring their own safety gear for show-and-tell
+- Use jump ropes instead of hula hoops for personal space circles
+- Email parent materials instead of printing
+
+---
+
 ## Meeting 1: Personal Safety Gear and Digital Safety Discussion (60 minutes)
 
 ### Opening (5 minutes)

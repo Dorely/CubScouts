@@ -2,6 +2,59 @@
 
 **Estimated Time to Complete: 2 den meetings (60 minutes each)**
 
+## ✅ Requirements Checklist
+
+### Meeting 1 Requirements:
+- [ ] **Requirement 1:** Prepare for a one-mile walk by gathering the Cub Scout Six Essentials and weather appropriate clothing and shoes
+- [ ] **Requirement 2:** "Know Before You Go" Identify the location of your walk on a map and confirm your one-mile route
+- [ ] **Requirement 3:** "Choose the Right Path" Learn about the path and surrounding area you will be walking on
+- [ ] **Requirement 4:** "Trash your Trash" Make a plan for what you will do with your personal trash or trash you find along the trail
+- [ ] **Requirement 6:** "Be Careful with Fire" Determine the fire danger rating along your path
+- [ ] **Requirement 8:** "Be Kind to Other Visitors" Identify what you need to do as a den to be kind to others on the path
+
+### Meeting 2 Requirements:
+- [ ] **Requirement 5:** "Leave What You Find" Take pictures along your walk or bring a sketchbook to draw five things that you want to remember on your walk
+- [ ] **Requirement 7:** "Respect Wildlife" From a safe distance, identify as you look up, down, and around you, six signs of any mammals, birds, insects, reptiles
+- [ ] **Requirement 9:** Go on your one-mile walk while practicing your Leave No Trace Principles for Kids (simulated)
+
+**Note:** This lesson plan uses a simulated walk format. For a real one-mile walk, coordinate with pack events like the Chino Hike!
+
+---
+
+## 🛒 Shopping & Materials List
+
+### Items to Purchase:
+- **Six Essentials demonstration kit** - $25-40
+  - Small first aid kit - $8-12 (Walmart, Target, CVS)
+  - Flashlight (LED) - $5-8 (Dollar Tree, hardware stores)
+  - Trail food samples (granola bars, trail mix) - $8-12
+  - Whistle - $3-5 (sporting goods, Dollar Tree)
+  - Sun protection (sample sunscreen, hat) - $5-8
+- **Local area maps** (if not free online) - $5-10 (visitor centers, outdoor stores)
+- **Trash timeline game materials** - $8-12
+  - Laminated cards or poster board, markers
+- **Wildlife identification guides/pictures** - $10-15 (nature center, library book, printouts)
+- **Cameras** (disposable if needed) or **sketchbooks** - $15-25
+- **Backpack** (for demonstration) - $15-25 (if not available)
+
+### Items You May Already Have:
+- Water bottles
+- Digital devices/phones for maps
+- Fire danger rating information (online)
+- Poster paper and markers
+- Trail snacks
+
+### **Total Estimated Cost: $35-60**
+
+**💡 Cost-Saving Tips:**
+- Use free online maps and print them
+- Borrow demonstration items from scouts/families
+- Check library for wildlife guides
+- Use phone cameras instead of disposable ones
+- Contact local park rangers for free materials
+
+---
+
 ## Meeting 1: Planning & Preparation (60 minutes)
 
 ### Opening (5 minutes)

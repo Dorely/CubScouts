@@ -2,7 +2,7 @@
 
 *Key: **Pack/District Event***
 
-**📋 Fellowship Adventure Note:** This required adventure is completed as a take-home assignment with families over 12+ weeks (Sep-Dec). See Fellowship_Adventure_Take_Home.md for details.
+**📋 Fellowship Adventure Note:** This required adventure is completed as a take-home assignment with families over 12+ weeks (Sep-Dec).
 
 ---
 
@@ -67,19 +67,19 @@
 | Date | Event & Details |
 | :--- | :--- |
 | Feb 1 | **Scout Sunday** |
-| Feb 4 | Den Meeting / Elective Adventure |
-| Feb 11 | Den Meeting / Elective Adventure |
-| Feb 18 | Den Meeting / Elective Adventure |
-| Feb 25 | Den Meeting / Elective Adventure |
-| Feb 28 | **Blue & Gold Banquet** → Bear Rank Advancement Ceremony! 🎉 |
+| Feb 4 | **Elective Adventure** - Continue choice electives |
+| Feb 11 | **Elective Adventure** - Continue choice electives |
+| Feb 18 | **Elective Adventure** - Continue choice electives |
+| Feb 25 | **Elective Adventure** - Continue choice electives |
+| Feb 28 | **Blue & Gold Banquet** |
 
 #### **March 2026**
 | Date | Event & Details |
 | :--- | :--- |
-| Mar 4 | Den Meeting / Outdoor Games |
+| Mar 4 | **Elective Adventure** - Outdoor Games elective |
 | Mar 7 | **In-N-Out Tour (Pack Event)** |
-| Mar 11 | Den Meeting / Elective Adventure |
-| Mar 18 | Den Meeting / Elective Adventure |
+| Mar 11 | **Elective Adventure** - Continue choice electives |
+| Mar 18 | **Elective Adventure** - Continue choice electives |
 | Mar 21 | **Planes of Fame (Pack Event)** |
 | Mar 25 | **NO MEETING** (Spring Break) |
 
@@ -88,17 +88,17 @@
 | :--- | :--- |
 | Apr 1 | **NO MEETING** (Spring Break) |
 | Apr 8 | **Pack Easter Party** |
-| Apr 15 | Den Meeting / Prepare for Bike Ride |
+| Apr 15 | **Elective Adventure** - Prepare for Bike Ride (Bears on Bikes elective) |
 | Apr 18 | **Bike Ride (Pack Event)** |
 | Apr 22 | **Earth Day Activity / Service Project** |
-| Apr 29 | Den Meeting / Final planning for the Pack Campout. |
+| Apr 29 | **Elective Adventure** - Pack Campout planning |
 
 #### **May 2026**
 | Date | Event & Details |
 | :--- | :--- |
 | May 1–3 | **Pack Campout** |
-| May 6 | Den Meeting / Campout reflections and awards. |
-| May 13 | Den Meeting / Prepare for Raingutter Regatta. |
+| May 6 | **Elective Adventure** - Campout reflections |
+| May 13 | **Elective Adventure** - Prepare for Raingutter Regatta |
 | May 16 | **Raingutter Regatta (Pack Event)** |
-| May 20 | Webelos Transition Meeting |
+| May 20 | **Elective Adventure** /  Webelos Transition Meeting |
 | May 27 | **Last Meeting of the Year:** Den party and end-of-year celebration. |

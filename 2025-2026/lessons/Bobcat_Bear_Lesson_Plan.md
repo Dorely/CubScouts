@@ -2,6 +2,44 @@
 
 **Estimated Time to Complete: 2 den meetings (60 minutes each)**
 
+## ✅ Requirements Checklist
+
+### Meeting 1 Requirements:
+- [ ] **Requirement 1:** Get to know members of your den
+- [ ] **Requirement 2:** Recite the Scout Oath and Law with your den and den leader
+- [ ] **Requirement 3:** Learn about the Scout Oath. Identify the three points
+- [ ] **Requirement 4:** With your den create a den Code of Conduct
+- [ ] **Requirement 5:** Learn about the denner position and responsibilities
+
+### Meeting 2 Requirements:
+- [ ] **Requirement 6:** Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake
+- [ ] **Requirement 7:** Share with your den a time when you demonstrated "Do Your Best"
+- [ ] **Requirement 8:** Youth Protection awareness (age-appropriate discussion)
+
+### Take-Home Requirement:
+- [ ] **Requirement 8 (Complete):** At home, with your parent or legal guardian do the activities in the booklet "How to Protect Your Children from Child Abuse: A Parent's Guide"
+
+---
+
+## 🛒 Shopping & Materials List
+
+### Items to Purchase:
+- **Bean bags** (6-8 pieces) - $10-15 (Dollar Tree, Walmart, Amazon)
+- **Poster paper** (2-3 large sheets) - $5-8 (Walmart, Target, office supply stores)
+- **Markers/crayons** (variety pack) - $8-12 (any store)
+- **Popsicle sticks** (pack of 50+) - $3-5 (craft stores, Dollar Tree)
+- **Craft supplies for flag**: Felt pieces, glue sticks, scissors - $10-15 (craft stores)
+
+### Items You May Already Have:
+- Scout handbooks
+- Pencils/pens
+- Paper for writing
+- Clipboards (optional)
+
+### **Total Estimated Cost: $25-40**
+
+---
+
 ## Meeting 1: Scout Foundations & Den Bonding (60 minutes)
 
 ### Opening (5 minutes)
@@ -59,16 +97,3 @@
 ### Closing (5 minutes)
 - Final Scout skills demonstration
 - Recognition ceremony
-
-## Materials Needed
-- Bean bags
-- Poster paper and markers
-- Popsicle sticks
-- Craft supplies for flag
-- Scout handbook references
-
-## Safety Notes
-- Follow Guide to Safe Scouting guidelines
-- Use Scouting America SAFE Checklist
-- Ensure proper adult supervision at all times
-- Review craft safety before activities
