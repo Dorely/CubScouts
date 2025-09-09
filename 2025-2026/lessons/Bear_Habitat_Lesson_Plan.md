@@ -21,39 +21,6 @@
 
 ---
 
-## 🛒 Shopping & Materials List
-
-### Items to Purchase:
-- **Six Essentials demonstration kit** - $25-40
-  - Small first aid kit - $8-12 (Walmart, Target, CVS)
-  - Flashlight (LED) - $5-8 (Dollar Tree, hardware stores)
-  - Trail food samples (granola bars, trail mix) - $8-12
-  - Whistle - $3-5 (sporting goods, Dollar Tree)
-  - Sun protection (sample sunscreen, hat) - $5-8
-- **Local area maps** (if not free online) - $5-10 (visitor centers, outdoor stores)
-- **Trash timeline game materials** - $8-12
-  - Laminated cards or poster board, markers
-- **Wildlife identification guides/pictures** - $10-15 (nature center, library book, printouts)
-- **Cameras** (disposable if needed) or **sketchbooks** - $15-25
-- **Backpack** (for demonstration) - $15-25 (if not available)
-
-### Items You May Already Have:
-- Water bottles
-- Digital devices/phones for maps
-- Fire danger rating information (online)
-- Poster paper and markers
-- Trail snacks
-
-### **Total Estimated Cost: $35-60**
-
-**💡 Cost-Saving Tips:**
-- Use free online maps and print them
-- Borrow demonstration items from scouts/families
-- Check library for wildlife guides
-- Use phone cameras instead of disposable ones
-- Contact local park rangers for free materials
-
----
 
 ## Meeting 1: Planning & Preparation (60 minutes)
 

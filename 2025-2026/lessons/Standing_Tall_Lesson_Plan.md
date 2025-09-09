@@ -16,37 +16,6 @@
 
 ---
 
-## 🛒 Shopping & Materials List
-
-### Items to Purchase:
-- **Safety equipment for demonstration** - $30-50
-  - Various helmets (bike, sports) - $15-25 (borrow from scouts/families)
-  - Safety glasses/goggles - $5-10 (hardware stores, Dollar Tree)
-  - Work gloves, oven mitts - $8-12 (Dollar Tree, Walmart)
-  - Kitchen safety props (aprons) - $5-8
-- **Personal space activity materials** - $8-15
-  - Hula hoops (3-4) OR rope for circles - $8-15 (Dollar Tree, Walmart, Target)
-- **Parent communication materials** - $5-10
-  - Printing costs for worksheets and guides
-  - Folders or envelopes for take-home packets
-
-### Items You May Already Have:
-- Different types of footwear examples
-- Kitchen safety items (oven mitts, aprons)
-- Sports equipment examples
-- Computer/printer for worksheets
-- Bear Standing Tall Parent Notification (download from BSA)
-
-### **Total Estimated Cost: $20-40**
-
-**💡 Cost-Saving Tips:**
-- Borrow safety equipment from scout families
-- Use free printable worksheets from BSA website
-- Ask families to bring their own safety gear for show-and-tell
-- Use jump ropes instead of hula hoops for personal space circles
-- Email parent materials instead of printing
-
----
 
 ## Meeting 1: Personal Safety Gear and Digital Safety Discussion (60 minutes)
 

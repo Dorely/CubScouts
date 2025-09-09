@@ -14,31 +14,12 @@
 ### Meeting 2 Requirements:
 - [ ] **Requirement 6:** Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake
 - [ ] **Requirement 7:** Share with your den a time when you demonstrated "Do Your Best"
-- [ ] **Requirement 8:** Youth Protection awareness (age-appropriate discussion)
 
 ### Take-Home Requirement:
 - [ ] **Requirement 8 (Complete):** At home, with your parent or legal guardian do the activities in the booklet "How to Protect Your Children from Child Abuse: A Parent's Guide"
 
 ---
 
-## 🛒 Shopping & Materials List
-
-### Items to Purchase:
-- **Bean bags** (6-8 pieces) - $10-15 (Dollar Tree, Walmart, Amazon)
-- **Poster paper** (2-3 large sheets) - $5-8 (Walmart, Target, office supply stores)
-- **Markers/crayons** (variety pack) - $8-12 (any store)
-- **Popsicle sticks** (pack of 50+) - $3-5 (craft stores, Dollar Tree)
-- **Craft supplies for flag**: Felt pieces, glue sticks, scissors - $10-15 (craft stores)
-
-### Items You May Already Have:
-- Scout handbooks
-- Pencils/pens
-- Paper for writing
-- Clipboards (optional)
-
-### **Total Estimated Cost: $25-40**
-
----
 
 ## Meeting 1: Scout Foundations & Den Bonding (60 minutes)
 
@@ -83,8 +64,8 @@
 - Scout skills relay game competition
 - Opening ceremony practice incorporating all skills
 
-#### Activity 2: Do Your Best & Protection (25 minutes)
-**Requirements 7 & 8: "Do Your Best" stories and Youth Protection**
+#### Activity 2: Do Your Best & Protection Prep (25 minutes)
+**Requirement 7: "Do Your Best" stories; Youth Protection prep for home (Req 8)**
 - Circle sharing: Each scout shares "Do Your Best" example (10 minutes)
 - Age-appropriate safety discussion and role-play (15 minutes)
 - Remind parents to complete home protection activities

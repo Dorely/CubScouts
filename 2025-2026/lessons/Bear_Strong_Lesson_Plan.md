@@ -17,36 +17,6 @@
 
 ---
 
-## 🛒 Shopping & Materials List
-
-### Items to Purchase:
-- **Healthy snacks for food group sampling** - $20-30
-  - Protein: cheese cubes, nuts, hard-boiled eggs
-  - Vegetables: baby carrots, bell pepper strips, cherry tomatoes
-  - Fruits: apple slices, grapes, berries
-  - Dairy: individual yogurt cups, string cheese
-  - Grains: whole grain crackers, pretzels
-- **Frisbee or balls** (if not available) - $8-15 (Dollar Tree, Walmart, Target)
-- **Exercise station signs** (cardstock/posterboard) - $5-8
-- **Yoga mats or towels** (if not available) - $15-25 (Walmart, Target, Amazon)
-- **Paper and crayons** for relaxation activity - $5-8
-- **Water bottles** (disposable or ask families to bring) - $5-10
-
-### Items You May Already Have:
-- Calming music and speaker/phone
-- Stopwatch or timer (phone app works)
-- Markers for signs
-- First aid kit
-
-### **Total Estimated Cost: $40-60**
-
-**💡 Cost-Saving Tips:**
-- Ask families to contribute snacks by food group
-- Use towels instead of yoga mats
-- Use phone timer and music apps
-- Make signs on regular paper
-
----
 
 ## Meeting 1: Nutrition and Active Fun (60 minutes)
 

@@ -1,6 +1,6 @@
 # Fellowship Adventure - Take Home Assignment
 
-**This adventure is designed to be completed at home with your family over the course of 2-4 weeks.**
+**This adventure is designed to be completed at home with your family over the course of 12+ weeks (Sep–Dec), aligned with the den calendar.**
 
 ## ✅ Requirements Checklist
 
@@ -18,38 +18,11 @@
 
 **Alternative Completion:** This Adventure may be earned by completing the requirements above OR by completing a Religious Emblem of your family's choosing.
 
----
-
-## 🛒 Materials & Supplies List
-
-### Items Families May Need to Purchase:
-- **Craft supplies for Requirement 1** (choose based on selected project) - $5-20
-  - **Thanksgiving treats**: Baking ingredients - $8-15
-  - **Clay sculpture**: Modeling clay, paint, brushes - $10-15
-  - **String art heart**: Embroidery hoops, yarn, nails, hammer - $8-12
-  - **Family tradition craft**: Varies by tradition - $5-20
-- **Documentation supplies** (optional) - $5-15
-  - Scrapbook or photo album - $5-10
-  - Extra photos printed - $3-8
-  - Decorative pens or markers - $3-5
-
-### Items Families May Already Have:
-- Camera or phone for photos
-- Basic craft supplies (scissors, glue, paper)
-- Books about different religions (library is free!)
-- Materials for acts of kindness (cards, envelopes)
-- Family religious or spiritual items
-
-### **Total Estimated Cost: $0-35** (many families may spend little to nothing)
-
-**💡 Cost-Saving Tips:**
-- Use library books for learning about different faiths
-- Choose simple acts of kindness that cost nothing
-- Make crafts with materials you already have at home
-- Take photos with your phone instead of buying a camera
-- Use a simple folder instead of an expensive scrapbook
+Note: The suggested weekly pacing below can be spread flexibly across September through December; den check-ins are noted on the calendar.
 
 ---
+
+
 
 ## Important Notes for Families
 
