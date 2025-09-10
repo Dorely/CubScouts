@@ -1,0 +1,59 @@
+/* Print stylesheet for 2025-2026/calendar.md */
+
+/* Page and typography */
+@page { margin: 0.5in; }
+
+html, body {
+  color: #000;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+/* Center overall content block with 5% side margins */
+.markdown-body, body {
+  margin: 0 5%;
+}
+
+/* Headings */
+h1, h2, h3, h4 { color: #000; }
+h1 { font-size: 20pt; margin: 0 0 10pt; }
+h2 { font-size: 16pt; margin: 18pt 0 8pt; }
+h3 { font-size: 14pt; margin: 16pt 0 6pt; }
+h4 { font-size: 12pt; margin: 14pt 0 6pt; }
+
+/* Keep month headings with first table row when possible */
+h3 + table, h4 + table { page-break-inside: auto; }
+h3, h4 { page-break-after: avoid; }
+
+/* Horizontal rule */
+hr { border: 0; border-top: 1px solid #bbb; margin: 10pt 0; }
+
+/* Tables */
+/* Make tables fill the centered content block */
+table {
+  width: 100%;
+  margin: 0 auto 8pt;
+  border-collapse: collapse;
+  font-size: 10pt;
+  table-layout: fixed;
+}
+th, td { border: 1px solid #333; padding: 4pt 6pt; vertical-align: top; word-wrap: break-word; overflow-wrap: anywhere; }
+th { background: #f0f0f0; font-weight: 700; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* Subtle zebra striping for readability in print */
+tr:nth-child(even) td { background: #fafafa; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* Emojis and bold markers render fine; ensure no color drop */
+strong { color: #000; }
+
+/* Avoid awkward page breaks inside tables; allow breaks between rows */
+tr { page-break-inside: avoid; }
+table { page-break-inside: auto; }
+
+/* Links: remove underlines and show as plain text in print */
+a { color: #000; text-decoration: none; }
+
+/* Compact lists */
+ul, ol { margin: 6pt 0 6pt 18pt; }
+li { margin: 2pt 0; }
