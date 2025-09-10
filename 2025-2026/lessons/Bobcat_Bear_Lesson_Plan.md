@@ -16,7 +16,7 @@
 - [ ] **Requirement 7:** Share with your den a time when you demonstrated "Do Your Best"
 
 ### Take-Home Requirement:
-- [ ] **Requirement 8 (Complete):** At home, with your parent or legal guardian do the activities in the booklet "How to Protect Your Children from Child Abuse: A Parent's Guide"
+- [ ] **Requirement 8:** At home, with your parent or legal guardian do the activities in the booklet "How to Protect Your Children from Child Abuse: A Parent's Guide"
 
 ---
 
