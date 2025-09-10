@@ -15,6 +15,14 @@
 ### Take-Home Requirement:
 - [ ] **Requirement 5:** Review your Scouting America Annual Health and Medical record with your parent or guardian. Discuss your ability to participate in den and pack activities
 
+## Denner Duties Today (Quick Guide)
+- Lead opening: flag/Oath/Law with den leader
+- Assist: warmup game at start; cooldown/reflection at end
+- Materials: help set up, pass out, and collect supplies/snacks
+- Transitions: serve as line leader and model Scout behavior
+- Roster: help track denner rotation and mark attendance
+- Closing: help with flag ceremony and announcements; support cleanup
+
 ---
 
 

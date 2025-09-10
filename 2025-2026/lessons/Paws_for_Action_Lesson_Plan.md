@@ -12,6 +12,14 @@
 ### Meeting 2 Requirements:
 - [ ] **Requirement 4:** Participate in a service project
 
+## Denner Duties Today (Quick Guide)
+- Lead opening: flag/Oath/Law with den leader
+- Assist: warmup game at start; cooldown/reflection at end
+- Materials: help set up, pass out, and collect supplies/snacks
+- Transitions: serve as line leader and model Scout behavior
+- Roster: help track denner rotation and mark attendance
+- Closing: help with flag ceremony and announcements; support cleanup
+
 ---
 
 

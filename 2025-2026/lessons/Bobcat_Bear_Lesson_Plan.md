@@ -18,6 +18,14 @@
 ### Take-Home Requirement:
 - [ ] **Requirement 8:** At home, with your parent or legal guardian do the activities in the booklet "How to Protect Your Children from Child Abuse: A Parent's Guide"
 
+## Denner Duties Today (Quick Guide)
+- Lead opening: flag/Oath/Law with den leader
+- Assist: warmup game at start; cooldown/reflection at end
+- Materials: help set up, pass out, and collect supplies/snacks
+- Transitions: serve as line leader and model Scout behavior
+- Roster: help track denner rotation and mark attendance
+- Closing: help with flag ceremony and announcements; support cleanup
+
 ---
 
 

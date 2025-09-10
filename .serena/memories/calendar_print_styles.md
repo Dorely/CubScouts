@@ -1,0 +1,18 @@
+- Stylesheet path: `styles/markdown.print.css` (global Markdown print CSS).
+- Print extension config:
+  - Single file (e.g., calendar): `../styles/markdown.print.css` from `2025-2026/calendar.md`.
+  - Workspace-wide or multi-file: `workspace.resource/styles/markdown.print.css`.
+- Calendar-specific rules are scoped so other tables are unaffected:
+  - Column widths apply only to tables immediately following `h3`/`h4` month headings (`h3 + table`, `h4 + table`).
+- Calendar table structure (Markdown):
+  - First row is month title: `| Month YYYY |  |  |  |`.
+  - Second row is alignment: `| :--- | :--- | :--- | :--- |`.
+  - Third row is column labels (rendered as first tbody row): `| Date | Event & Details | Snack Signup | Lesson Lead |`.
+- CSS key rules (for consistent, printable tables):
+  - Center content with safe margins: `.markdown-body, body { margin: 0 6.25%; }`.
+  - Fixed column widths across all months (scoped as above): `first:10%`, `second:65%`, `third:12.5%`, `fourth:12.5%`.
+  - Month title styling: `table thead tr:first-child th { text-align:center; font-weight:700; background:#f0f0f0; font-size:12pt; border-bottom:1pt solid #333; }` (outer borders only on that row).
+  - Column label styling: `table thead + tbody tr:first-child td { background:#f0f0f0; font-weight:700; }`.
+  - Borders reliable for print: `border-collapse: separate; border-spacing:0; th,td,table { border: 1pt solid #333; }` and reinforced vertical separators.
+  - Page breaks: prevent splitting month tables: `table { page-break-inside: avoid; }`; no forced new page per month.
+- Outcome: Calendar tables print cleanly; other Markdown tables (e.g., denner rotation) render normally.

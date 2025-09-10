@@ -1,0 +1,110 @@
+/* Global print stylesheet for Markdown documents */
+
+/* Page and typography */
+@page { margin: 0.5in; }
+
+html, body {
+  color: #000;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+/* Center overall content block with safe side margins for print area
+   6.25% per side -> total content width 87.5% (<= 7.5in inside 0.5in @page margins) */
+.markdown-body, body {
+  margin: 0 6.25%;
+}
+
+/* Headings */
+h1, h2, h3, h4 { color: #000; }
+h1 { font-size: 20pt; margin: 0 0 10pt; }
+h2 { font-size: 16pt; margin: 18pt 0 8pt; }
+h3 { font-size: 14pt; margin: 16pt 0 6pt; }
+h4 { font-size: 12pt; margin: 14pt 0 6pt; }
+
+/* Keep month headings with first table row when possible */
+h3 + table, h4 + table { page-break-inside: avoid; break-inside: avoid; page-break-before: avoid; break-before: avoid-page; }
+h3, h4 { page-break-after: avoid; break-after: avoid-page; }
+/* Removed forced new-page per month; rely on keep-with-next rules */
+
+/* Horizontal rule */
+hr { border: 0; border-top: 1px solid #bbb; margin: 10pt 0; }
+
+/* Tables */
+/* Make tables fill the centered content block */
+table {
+  width: 100%;
+  margin: 8pt auto 10pt; /* add spacing to avoid clipping at page tops */
+  border-collapse: separate; /* more reliable borders in print */
+  border-spacing: 0;
+  font-size: 10pt;
+  table-layout: fixed; /* ensure consistent column widths across all tables */
+  page-break-inside: avoid; /* keep each month table intact on one page */
+  break-inside: avoid;
+  border: 1pt solid #333;   /* ensure visible outer borders */
+}
+th, td {
+  border: 1pt solid #333;
+  padding: 4pt 6pt;
+  vertical-align: top;
+  white-space: normal;
+  word-break: keep-all; /* avoid breaking inside words */
+  overflow-wrap: anywhere; /* allow breaks where needed for fixed layout */
+  hyphens: auto;
+}
+
+/* Month title row as thead (first header row) spanning visually across */
+table thead tr:first-child th {
+  text-align: center;
+  font-weight: 700;
+  background: #f0f0f0;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+  font-size: 12pt; /* match prior h4 size */
+  border-bottom: 1pt solid #333;
+}
+/* Remove vertical lines between columns on the month title row */
+table thead tr:first-child th { border-left: none; border-right: none; }
+table thead tr:first-child th:first-child { border-left: 1pt solid #333; }
+table thead tr:first-child th:last-child { border-right: 1pt solid #333; }
+
+/* Style first body row to look like column headers when using month as header row */
+table thead + tbody tr:first-child td {
+  background: #f0f0f0;
+  font-weight: 700;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+/* Reinforce vertical separators in some print engines */
+td + td, th + th { border-left: 1pt solid #333; }
+
+/* Column sizing for 4-column CALENDAR month tables only (tables that directly follow h3/h4 month headings):
+   Date | Event & Details | Snack | Lead. Avoid affecting non-calendar tables. */
+h3 + table th:first-child, h3 + table td:first-child,
+h4 + table th:first-child, h4 + table td:first-child { white-space: nowrap; width: 10%; }
+h3 + table th:nth-child(2), h3 + table td:nth-child(2),
+h4 + table th:nth-child(2), h4 + table td:nth-child(2) { width: 65%; }
+h3 + table th:nth-child(3), h3 + table td:nth-child(3),
+h4 + table th:nth-child(3), h4 + table td:nth-child(3) { width: 12.5%; }
+h3 + table th:nth-child(4), h3 + table td:nth-child(4),
+h4 + table th:nth-child(4), h4 + table td:nth-child(4) { width: 12.5%; }
+h3 + table th, h4 + table th { background: #f0f0f0; font-weight: 700; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* Subtle zebra striping for readability in print */
+tr:nth-child(even) td { background: #fafafa; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* Emojis and bold markers render fine; ensure no color drop */
+strong { color: #000; }
+
+/* Avoid awkward page breaks inside tables; allow breaks between rows */
+tr { page-break-inside: avoid; }
+table { page-break-inside: avoid; break-inside: avoid; }
+
+/* Links: remove underlines and show as plain text in print */
+a { color: #000; text-decoration: none; }
+
+/* Compact lists */
+ul, ol { margin: 6pt 0 6pt 18pt; }
+li { margin: 2pt 0; }
