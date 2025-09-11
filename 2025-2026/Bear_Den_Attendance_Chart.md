@@ -30,5 +30,10 @@ table:first-of-type thead tr:first-child th {
 | 18. |  |  |  |  |  |  |  |  |
 | 19. |  |  |  |  |  |  |  |  |
 | 20. |  |  |  |  |  |  |  |  |
+| 21. |  |  |  |  |  |  |  |  |
+| 22. |  |  |  |  |  |  |  |  |
+| 23. |  |  |  |  |  |  |  |  |
+| 24. |  |  |  |  |  |  |  |  |
+| 25. |  |  |  |  |  |  |  |  |
 
 > Write scout names across the eight name columns and use initials or ✓ marks for attendance.

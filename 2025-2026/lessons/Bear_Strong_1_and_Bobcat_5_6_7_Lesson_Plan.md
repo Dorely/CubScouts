@@ -76,13 +76,3 @@
 - Optional device for soft music during cooldown
 - Timer/stopwatch
 
-## Safety Notes
-- Check for food allergies and dietary/religious restrictions before sampling
-- Follow safe food handling; provide handwashing or sanitizer
-- Have EpiPen access and trained adult if required
-- Ensure adequate space and supervision during games
-
-## References
-- Bear Strong details: `reference/required/Bear_Strong_Adventure.md`
-- Bobcat details: `reference/required/Bobcat_Bear_Adventure.md`
-- Fellowship (home): `2025-2026/lessons/Fellowship_Adventure_Take_Home.md`

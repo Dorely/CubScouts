@@ -25,7 +25,7 @@
 | Date | Event & Details | Snack Signup | Lesson Lead |
 | Oct 1 | **Bear Habitat Adventure Meeting 2** - Wildlife & Outdoor Practice |  |  |
 | Oct 8 | **Paws for Action Adventure Meeting 1** - American Pride & Service Learning |  |  |
-| Oct 10-12 | **Eerie Emery (Pack Event)** |  |  |
+| Oct 10-12 | **Eerie Emerson (Pack Event)** |  |  |
 | Oct 15 | **Paws for Action Adventure Meeting 2** - Service in Action |  |  |
 | Oct 22 | **Standing Tall Adventure Meeting 1** - Personal Safety Gear and Digital Safety |  |  |
 | Oct 25 | **Chino Hike (Pack Event)** - Practice Leave No Trace skills learned in Bear Habitat! |  |  |
