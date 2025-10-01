@@ -100,3 +100,34 @@
 | May 16 | **Raingutter Regatta (Pack Event)** |  |  |
 | May 20 | **Elective Adventure** /  Webelos Transition Meeting |  |  |
 | May 27 | **Last Meeting of the Year:** Den party and end-of-year celebration. |  |  |
+
+---
+
+## All Adventures
+
+### Required Adventures
+- Bear Habitat Adventure
+- Bear Strong Adventure
+- Bobcat Bear Adventure
+- Fellowship Adventure
+- Paws for Action Adventure
+- Standing Tall Adventure
+
+### Elective Adventures
+- A Bear Goes Fishing Adventure
+- Balancing Bears Adventure
+- Baloo the Builder Adventure
+- Bears Afloat Adventure
+- Bears on Bikes Adventure
+- Champions for Nature Bear Adventure
+- Chef Tech Adventure
+- Critter Care Adventure
+- Forensics Adventure
+- Lets Camp Bear Adventure
+- Marble Madness Adventure
+- Race Time Bear Adventure
+- Roaring Laughter Adventure
+- Salmon Run Adventure
+- Summertime Fun Bear Adventure
+- Super Science Adventure
+- Whittling Adventure
