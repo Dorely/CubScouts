@@ -17,16 +17,16 @@
 | Sep 3 | **Bear Strong Adventure Meeting 1** - Nutrition and Active Fun + **Fellowship Take-Home Begins** |  |  |
 | Sep 10 | **Bear Strong Adventure Meeting 2** - Personal Fitness and Wellness |  |  |
 | Sep 17 | **Pack Awards Ceremony** |  |  |
-| Sep 24 | **Bear Habitat Adventure Meeting 1** - Planning & Preparation |  |  |
+| Sep 24 | **Bear Habitat Adventure Meeting 1** - Planning & Preparation | Bryce  |  |
 | Sep 26–28 | **Adventure Weekend** |  |  |
 
 | October 2025 |  |  |  |
 | :--- | :--- | :--- | :--- |
 | Date | Event & Details | Snack Signup | Lesson Lead |
-| Oct 1 | **Bear Habitat Adventure Meeting 2** - Wildlife & Outdoor Practice |  |  |
-| Oct 8 | **Paws for Action Adventure Meeting 1** - American Pride & Service Learning |  |  |
+| Oct 1 | **Bear Habitat Adventure Meeting 2** - Wildlife & Outdoor Practice | Bryce |  |
+| Oct 8 | **Paws for Action Adventure Meeting 1** - American Pride & Service Learning | David | Jennifer |
 | Oct 10-12 | **Eerie Emerson (Pack Event)** |  |  |
-| Oct 15 | **Paws for Action Adventure Meeting 2** - Service in Action |  |  |
+| Oct 15 | **Paws for Action Adventure Meeting 2** - Service in Action |  | Jennifer |
 | Oct 22 | **Standing Tall Adventure Meeting 1** - Personal Safety Gear and Digital Safety |  |  |
 | Oct 25 | **Chino Hike (Pack Event)** - Practice Leave No Trace skills learned in Bear Habitat! |  |  |
 | Oct 29 | **Pack Halloween Party** |  |  |
@@ -35,9 +35,9 @@
 | :--- | :--- | :--- | :--- |
 | Date | Event & Details | Snack Signup | Lesson Lead |
 | Nov 1 | **District Archery Shoot** |  |  |
-| Nov 5 | **Standing Tall Adventure Meeting 2** - Safety Practice and Personal Space |  |  |
+| Nov 5 | **Standing Tall Adventure Meeting 2** - Safety Practice and Personal Space | David |  |
 | Nov 7–9 | **Joshua Tree Campout** |  |  |
-| Nov 12 | **ALL REQUIRED ADVENTURES COMPLETE!** - Celebration & Elective Planning + **Fellowship Take-Home Check-in** |  |  |
+| Nov 12 | **ALL REQUIRED ADVENTURES COMPLETE!** - Celebration & Elective Planning + **Fellowship Take-Home Check-in** | Jennifer |  |
 | Nov 19 | **Scoutsgiving & Awards** |  |  |
 | Nov 26 | **NO MEETING** |  |  |
 
