@@ -1,6 +1,6 @@
 # Bear Habitat Lesson Plan — Meeting 2
 
-**Estimated Time to Complete: 60 minutes + pack hike next month (one-mile walk)**
+**Estimated Time to Complete: 80 minutes + pack hike next month (one-mile walk)**
 
 ## ✅ Requirements Checklist
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Meeting 2: Route, Path Knowledge, and Fire Safety (60 minutes)
+## Meeting 2: Route, Path Knowledge, and Fire Safety (80 minutes)
 
 ### Opening (5 minutes)
 - Review Leave No Trace principles from last meeting
@@ -41,6 +41,52 @@ Requirement 6
 #### Activity 3: Pack Hike Briefing + Carryovers (10 minutes)
 - Review pack hike details (next month): meeting location/time, route overview, buddy system, adult roles
 - Close any carryovers from Requirements 5/7 not finished during campout; confirm what to bring for the hike
+
+### Games and Activities (20 minutes)
+*Choose 2-3 games based on time and group energy level*
+
+#### Game 1: Wildlife Migration Relay (10 minutes)
+**Leader:** Den Leader or designated parent volunteer
+**Setup:** Mark start/finish lines about 20 feet apart
+**How to Play:**
+- Divide into teams of 3-4 Cubs
+- Each team represents a different animal (bears, deer, birds, etc.)
+- Leader calls out migration challenges: "Bears need to cross the river!" (hop on one foot), "Birds fly south!" (flap arms while running), "Deer leap over fallen trees!" (jumping jacks to finish line)
+- Teams must work together to complete challenges and return to start
+- Rotate leader role among older Cubs for different rounds
+
+#### Game 2: Habitat Simon Says (10 minutes)
+**Leader:** Rotating between Cubs (2-3 different leaders)
+**How to Play:**
+- Leader gives commands related to animal habitats: "Simon says act like a bear hibernating," "Simon says swim like a fish," "Climb a tree like a squirrel" (without saying Simon Says)
+- Mix in Leave No Trace actions: "Simon says pack out your trash," "Simon says stay on the trail"
+- Each round, choose a new Cub leader to give 3-4 commands
+- Include habitat-specific movements and sounds
+
+#### Game 3: Animal Habitat Charades (10 minutes)
+**Leader:** Cubs take turns being the "Habitat Master"
+**Setup:** Prepare cards with animals and their habitats
+**How to Play:**
+- Habitat Master draws a card and acts out the animal and its habitat
+- Other Cubs guess both the animal AND where it lives
+- No talking allowed for the actor
+- Examples: bear in a cave, beaver by a dam, eagle in a nest
+- Successful guessers become the next Habitat Master
+- Leader helps with hints if needed
+
+#### Game 4: Fire Safety Action Circle (10 minutes)
+**Leader:** Cubs rotate as "Fire Captain"
+**Setup:** No materials needed - Cubs stand in a circle
+**How to Play:**
+- Fire Captain calls out fire danger levels: "GREEN - Low danger!" "YELLOW - Moderate!" "RED - High danger!" "PURPLE - Extreme!"
+- All Cubs must respond with appropriate actions and chants:
+  - GREEN: "Campfires OK!" (sit like around a campfire)
+  - YELLOW: "Be careful!" (look around alertly) 
+  - RED: "No fires today!" (cross arms in X)
+  - PURPLE: "Stay inside!" (crouch down low)
+- Add emergency scenarios: Fire Captain shouts "SMOKE!" (Cubs drop low and crawl), "EVACUATE!" (Cubs line up quickly and quietly)
+- Fire Captain rotates every 4-5 calls, choosing the next captain
+- End with "ALL CLEAR!" (Cubs cheer and high-five)
 
 ### Closing (5 minutes)
 - Reinforce safety and LNT principles
