@@ -1,5 +1,7 @@
 # Baloo the Builder Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/baloo-the-builder/
+
 ## Snapshot of Adventure
 Learning to build things that are useful or fun is an important skill. You might grow up to build houses as a career or models as a hobby. Or you might just learn some skills that will help you in everyday life.
 
@@ -20,7 +22,7 @@ Choose a project to build.
 Determine the tools and materials needed to build your project in requirement 3.
 
 ### Requirement 5
-Build your project (requirement title appears incomplete in source material).
+Build your project.
 
 ## Activity Ideas
 

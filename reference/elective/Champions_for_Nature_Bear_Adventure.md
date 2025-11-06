@@ -1,5 +1,7 @@
 # Champions for Nature Bear Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/champions-for-nature/
+
 ## Snapshot of Adventure
 We have three important resources for all living things on our planet: water, soil, and air. We use water to clean ourselves, our dishes, and our clothes. Soil is the resource that allows us to grow food. The air we breathe goes into our lungs, providing our bloodstream with oxygen. In this Adventure, you'll discover more about the resources of water, soil, and air and perhaps put what you discover into use with a conservation project. Knowing more about the resources of the planet will help you make good decisions about conserving the resources of our world.
 

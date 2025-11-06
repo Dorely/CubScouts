@@ -1,65 +1,48 @@
 # Roaring Laughter Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/roaring-laughter/
+
 ## Snapshot of Adventure
-Laughter is one of the best sounds in the world! It makes people feel good and brings them together. In this Adventure, you'll learn about different types of humor and practice telling jokes and funny stories. You'll discover that making people laugh can be just as much fun as laughing yourself.
+Laughing makes you feel good, and when you laugh others may start laughing, too. With just a smile, you can meet a new friend, make someone else smile, and create a happy feeling in yourself and other people. In this Adventure, you'll find lots of ways to smile and laugh.
 
 ## Requirements
 
 ### Requirement 1
-Practice telling a joke or funny story.
+Think about what makes you laugh. Discuss these with your den or family.
 
 ### Requirement 2
-Create your own joke.
+Practice reading tongue twisters.
 
 ### Requirement 3
-Perform a skit with others that makes people laugh.
+Play charades with your den or family.
 
 ### Requirement 4
-Share at least five jokes or riddles with your family or den.
+Have a "funniest joke contest" with your den or family.
 
 ### Requirement 5
-Learn about different types of humor from different times or places.
-
-### Requirement 6
-Attend a show, program, or event where there is entertainment that makes people laugh.
+Practice "run-ons" with your den or family.
 
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Cub Scouts practice telling age-appropriate jokes
-- Learn proper timing and delivery for storytelling
-- Practice telling funny personal stories
+- Cub Scouts participate in a word-play game
+- Cub Scouts grab and read jokes out loud to den
+- Cub Scouts write down things that make them laugh and share with the den
 
 ### Requirement 2 Activities
-- Cub Scouts create their own clean, appropriate jokes
-- Learn different joke formats like knock-knock jokes
-- Practice writing and refining original jokes
+- Cub Scouts practice tongue twisters
+- Cub Scouts play a tongue twister game with dice
+- Cub Scouts read a Dr. Seuss story
 
 ### Requirement 3 Activities
-- Cub Scouts perform comedy skits for their den or pack
-- Create simple puppet shows with humor
-- Practice group comedy performances
+- Cub Scouts play a game of charades
 
 ### Requirement 4 Activities
-- Cub Scouts share jokes and riddles with family members
-- Practice telling riddles and brain teasers
-- Create a joke-sharing session with the den
+- Cub Scouts participate in a joke contest
 
 ### Requirement 5 Activities
-- Cub Scouts learn about humor from different cultures
-- Explore how comedy has changed over time
-- Learn about famous comedians and entertainers
-
-### Requirement 6 Activities
-- Cub Scouts attend family-friendly comedy shows
-- Watch appropriate comedy movies or shows together
-- Attend local theater performances with humor
+- Cub Scouts practice and perform run-ons
 
 ## Safety Notes
 - Use Scouting America SAFE Checklist for all activities
-- Ensure all humor is appropriate and respectful
-- Avoid jokes that could hurt feelings or exclude others
-- Focus on clean, family-friendly humor only
-- Respect different senses of humor and cultural backgrounds
-- Create a supportive environment for sharing jokes
-- Emphasize that good humor builds people up rather than tears them down
+- Follow Guide to Safe Scouting guidelines

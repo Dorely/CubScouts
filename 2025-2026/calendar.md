@@ -34,10 +34,10 @@
 | November 2025 |  |  |  |
 | :--- | :--- | :--- | :--- |
 | Date | Event & Details | Snack Signup | Lesson Lead |
-| Nov 1 | **District Archery Shoot** |  |  |
-| Nov 5 | **Standing Tall Adventure Meeting 2** - Safety Practice and Personal Space | David |  |
+| Nov 5 | **Balancing Bears - Day 1** - Balancing play | David |  |
 | Nov 7–9 | **Joshua Tree Campout** |  |  |
-| Nov 12 | **ALL REQUIRED ADVENTURES COMPLETE!** - Celebration & Elective Planning + **Fellowship Take-Home Check-in** | Jennifer |  |
+| Nov 12 | **Balancing Bears - Day 2** - Symmetry in Nature | Jennifer |  |
+| Nov 15 | **District Archery Shoot** |  |  |
 | Nov 19 | **Scoutsgiving & Awards** |  |  |
 | Nov 26 | **NO MEETING** |  |  |
 

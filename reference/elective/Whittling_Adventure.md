@@ -1,66 +1,53 @@
 # Whittling Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/whittling/
+
 ## Snapshot of Adventure
-Whittling is the art of carving shapes from wood using a knife. It's a skill that has been practiced for thousands of years and can be very relaxing and rewarding. In this Adventure, you'll learn the basics of safe whittling and create your own simple wood carving project.
+A pocketknife is a useful tool to have for Scouting activities. It can also be dangerous if you don't use it the right way. In this Adventure, you will learn how to use a pocketknife safely. You will also get to learn the basics of carving.
+
+This Adventure is required in order for you to use any knife during a Cub Scout activity as a 3rd grade Bear. Next year you will need to earn the Webelos Adventure, Chef's Knife, to earn the privilege of using a knife during a Cub Scout activity as a 4th grade Webelos.
 
 ## Requirements
 
 ### Requirement 1
-Learn about the safety rules for using a whittling knife.
+Read, understand, and promise to abide by the "Cub Scout Knife Safety Rules."
 
 ### Requirement 2
-Demonstrate the proper way to hold and use a whittling knife.
+Demonstrate the knife safety circle.
 
 ### Requirement 3
-Make a simple carved object such as a whistle, boat, or figurine.
+Demonstrate that you know how to care for and use your pocketknife safely.
 
 ### Requirement 4
-Learn about different types of wood and which are best for whittling.
-
-### Requirement 5
-Practice proper knife care and storage.
-
-### Requirement 6
-Show your carved object to your family or den and explain how you made it.
+Make two carvings with a pocketknife.
 
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Cub Scouts learn the whittling safety circle and cutting away from body
-- Practice the four safety rules for knife use
-- Learn about proper supervision and safe whittling environments
+- **Knife Safety Rules Bear**: Cub Scouts learn and explain the knife safety rules
+- **Knife Safety Rules Charades**: Cub Scouts learn about the knife safety rules by playing charades
 
 ### Requirement 2 Activities
-- Cub Scouts demonstrate proper knife grip and cutting techniques
-- Practice controlled cutting motions and blade positioning
-- Learn different whittling cuts and techniques
+- **Knife Safety Circle Bear**: Cub Scouts practice the knife safety circle
 
 ### Requirement 3 Activities
-- Cub Scouts create simple projects like wooden boats or whistles
-- Make basic carved animals or simple figurines
-- Practice creating smooth, even cuts on wood projects
+- **Pocketknife Sharpening Practice Bear**: Cub Scouts practice sharpening their pocketknives
 
 ### Requirement 4 Activities
-- Cub Scouts learn about softwoods vs. hardwoods for carving
-- Explore different wood types like basswood, pine, and cedar
-- Learn about wood grain and how it affects carving
-
-### Requirement 5 Activities
-- Cub Scouts practice cleaning and oiling knife blades
-- Learn proper knife storage and transportation
-- Practice sharpening techniques appropriate for their age
-
-### Requirement 6 Activities
-- Cub Scouts present their carved projects to the group
-- Explain the steps they used to create their carving
-- Share what they learned about whittling and safety
+- **Potato Printing Press**: Cub Scouts carve a pattern into a potato and print a design
+- **Soap Carving**: Cub Scouts carve a simple item out of soap
 
 ## Safety Notes
-- Adult supervision required at all times during whittling activities
-- Use only appropriate whittling knives designed for youth
-- Maintain proper safety circle (arm's length plus knife length)
-- Ensure first aid kit is available during all whittling activities
-- Check local and state laws regarding knife use by minors
-- Use proper lighting and stable work surfaces
-- Never whittle when tired or distracted
-- Follow Scouting America's Age-Appropriate Guidelines for tool use
+- Watch the Cub Scout Knife Safety Adventures video
+- Confirm that your meeting location will permit pocketknives
+- Know the Cub Scout knife safety rules:
+  - **Stop** - make sure no one else is within arm's reach
+  - **Away** - always cut away from your finger or other body parts
+  - **Sharp** - a sharp, clean knife is a safe knife
+  - **Store** - knives closed, in a sheath or knife block
+- Secure additional adult supervision as needed
+- Make sure that the knives are sharp and in good condition
+- Review the Cub Scout knife safety rules during the Adventure
+- Double check that all knives being used are sharp and in good condition
+- Use Scouting America SAFE Checklist for all activities
+- Follow Guide to Safe Scouting guidelines

@@ -1,66 +1,65 @@
 # Bears on Bikes Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/bears-on-bikes/
+
 ## Snapshot of Adventure
-Bicycles are a great way to get around and have fun. They're also good exercise! But like any activity, bicycling has some safety rules that are important to follow. In this Adventure, you'll learn about bicycle safety and practice your riding skills.
+Get together with your den, pack, or family to go on a bike ride. In this Adventure, you'll learn what to wear to ride your bike safely and some basic maintenance. Then get ready for a bike ride. Grab your helmet, check your tires, and take a buddy to head out on another Cub Scout Adventure.
 
 ## Requirements
 
 ### Requirement 1
-Identify the safety equipment you need to go bicycling.
+Show how to properly wear a bicycle helmet.
 
 ### Requirement 2
-Demonstrate how to properly fit a bicycle helmet.
+Decide what you should wear when riding a bike.
 
 ### Requirement 3
-Learn and demonstrate two hand signals used when riding a bicycle.
+Demonstrate proper hand signals.
 
 ### Requirement 4
-Identify the parts of a bicycle.
+Demonstrate how to adjust saddle height.
 
 ### Requirement 5
-Describe how to be safe when bicycling.
+Demonstrate how to operate brakes.
 
 ### Requirement 6
-Go on a bicycle ride with your family or den.
+Learn how to use a pump to inflate your tires. Discuss why riding with low-pressure or flat tires is unsafe and can cause damage to your bike.
+
+### Requirement 7
+With your family, den, or pack, follow the buddy system and go on a 30-minute bike ride.
 
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Cub Scouts identify bicycle safety equipment including helmets, reflectors, and lights
-- Learn about proper bicycle clothing and visibility gear
-- Practice checking bicycle safety equipment before riding
+- Cub Scouts demonstrate proper helmet fitting during a relay game
 
 ### Requirement 2 Activities
-- Cub Scouts practice putting on helmets correctly
-- Learn the proper fit for bicycle helmets using the 2-V-1 rule
-- Check helmet straps and positioning
+- Cub Scouts learn proper bike attire by playing a game
 
 ### Requirement 3 Activities
-- Cub Scouts learn and practice left turn and right turn hand signals
-- Practice hand signals while stationary and while riding
-- Learn additional hand signals like stopping
+- Cub Scouts learn and demonstrate proper biking hand signals by playing "Bear Says"
+- Cub Scouts learn and practice bike hand signals
 
 ### Requirement 4 Activities
-- Cub Scouts identify bicycle parts including wheels, brakes, pedals, chain, and handlebars
-- Learn the function of different bicycle components
-- Practice basic bicycle maintenance vocabulary
+- Cub Scouts demonstrate how to adjust a bike seat
 
 ### Requirement 5 Activities
-- Cub Scouts learn bicycle safety rules including traffic awareness
-- Discuss helmet use, visibility, and riding with traffic
-- Learn about safe places to ride bicycles
+- Cub Scouts demonstrate how to operate their bicycle brakes
 
 ### Requirement 6 Activities
-- Cub Scouts go on a supervised bicycle ride with their den or family
-- Practice safe riding in a controlled environment
-- Organize a family bicycle outing
+- Cub Scouts learn how to pump up their tires safely
+
+### Requirement 7 Activities
+- Cub Scouts go on a 30-minute bike ride while using the buddy system
 
 ## Safety Notes
+- The use of push or balance bikes, training wheels, tricycles, or adaptive bikes are acceptable if the Cub Scout has not learned how to ride a bicycle
+- Electric or hybrid bikes are not allowed in Scouting activities
+- Review and become familiar with Bicycle Safety guidelines found on Scouting America Sports and Activities page
+- Conduct an "ABC Quick Check" on the bicycles before riding (air, brakes, and cranks, chain, and cogs)
 - All participants must wear properly fitted helmets
 - Use Scouting America SAFE Checklist for all activities
 - Ensure bicycles are in good working condition before riding
 - Choose safe, appropriate locations for bicycle activities
 - Provide adult supervision for all bicycle rides
 - Follow local traffic laws and bicycle regulations
-- Start with controlled environments before progressing to road riding
-- Ensure visibility with bright clothing and proper lighting

@@ -61,13 +61,12 @@ This weekend’s hike offers chances to complete Bear Habitat items. Quick remin
 #### Optional Energizer (5 minutes)
 - Insert one Denner-led game from the list if time allows.
 
-#### Optional Filler — Balancing Bears (Elective) Req 1–5 (10–20 minutes)
-If time remains, work on Balancing Bears elective requirements. Keep rotations short and safe.
-- Requirement 1: Practice balancing while walking forward, backward, and sideways (use a taped line or low beam).
-- Requirement 2: Balance on one foot, then the other; try short timed holds.
-- Requirement 3: While on one foot, play catch with a beanbag or soft ball.
-- Requirement 4: Balance a penny on edge; after three attempts, time the best balance.
-- Requirement 5: Balance a stick (dowel/walking stick) in your hand.
+#### Optional Filler — Balancing Bears (Elective) Req 1–4 (10–20 minutes)
+If time remains, work on Balancing Bears elective requirements (math and nature patterns).
+- Requirement 1: Make trail mix using trail mix math (provide ingredients and measuring cups; check allergies first).
+- Requirement 2: Show pictures of animals with patterns (stripes, spots); discuss how patterns help animals.
+- Requirement 3: Quick bilateral symmetry hunt - find things in room or outside with mirror symmetry (leaves, faces, butterflies).
+- Requirement 4: Quick radial symmetry hunt - look at pictures or real examples of radial symmetry (flowers, pinecones, cut orange).
 Reference: `reference/elective/Balancing_Bears_Adventure.md`.
 
 ### Closing (5 minutes)

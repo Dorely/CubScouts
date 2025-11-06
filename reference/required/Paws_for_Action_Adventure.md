@@ -1,5 +1,7 @@
 # Paws for Action Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/paws-for-action/
+
 ## Snapshot of Adventure
 This Adventure is about America and the powerful symbols that represent the best of our country and how communities come together to help solve problems they are facing. Citizenship in America is about participation. One way to show citizenship is by making an impact locally through nonprofit organizations. Nonprofit organizations are a place for people to give their time, talents, and resources to make a difference in their community. You, too, can make an impact by participating in a service project that makes your community a better place.
 

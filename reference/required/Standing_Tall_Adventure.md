@@ -1,5 +1,7 @@
 # Standing Tall Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/standing-tall/
+
 ## Snapshot of Adventure
 In this Adventure, the Protect Yourself Rules will give you guidance on keeping yourself safe. You will also identify ways to use electronics responsibly and ways to protect your body when you're playing or working. When bears feel they are in danger, they may stand on their back legs, standing tall, to let the danger know that they are brave and know how to keep themselves safe.
 

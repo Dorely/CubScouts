@@ -1,5 +1,7 @@
 # Bear Strong Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/bear-strong/
+
 ## Snapshot of Adventure
 In the Scout Oath, Cub Scouts promise to keep themselves physically strong and mentally awake. Personal fitness is about keeping your body strong by eating right and exercising, but it also means getting enough rest and exercising your mind by reading, solving problems, or even listening to music.
 

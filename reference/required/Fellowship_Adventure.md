@@ -1,5 +1,7 @@
 # Fellowship Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/fellowship/
+
 ## Snapshot of Adventure
 It is important to know that Scouting America has a religious element as a part of the program as stated in the Scout Oath and Scout Law. However, Scouting America is absolutely nonsectarian in its attitude toward a member's religion or faith. Scouting America policy is that the home and organization or group with which the member is connected shall give definite attention to religious life.
 

@@ -1,5 +1,7 @@
 # Let's Camp Bear Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/lets-camp-bear/
+
 ## Snapshot of Adventure
 Camping is a fun way to spend time with family and friends. Prepare for your campout by gathering what you will bring with you and setting up a tent. Your den leader and parents will help you get ready. Find the best spot to pitch your tent and make it your home for the campout.
 

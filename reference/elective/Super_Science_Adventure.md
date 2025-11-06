@@ -1,5 +1,7 @@
 # Super Science Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/super-science/
+
 ## Snapshot of Adventure
 Have you ever wondered why the sky is blue or how gravity works or what makes a rainbow? Scientists wonder about those things, too.
 

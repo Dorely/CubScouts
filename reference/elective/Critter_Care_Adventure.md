@@ -1,5 +1,7 @@
 # Critter Care Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/critter-care/
+
 ## Snapshot of Adventure
 Many Americans have a pet dog, cat, horse, bird, fish, hamster, or other animal. The most popular pet is a dog. Almost one out of three American households have a dog as a pet. One out of four have a cat as a pet.
 

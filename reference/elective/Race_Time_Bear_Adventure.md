@@ -1,5 +1,7 @@
 # Race Time Bear Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/race-time-bear/
+
 ## Snapshot of Adventure
 There are many ways to make things go — electricity, fuel, and batteries, to name a few. Did you know that you have the power to make a boat sail in the water or that a car can move using the force of gravity?
 

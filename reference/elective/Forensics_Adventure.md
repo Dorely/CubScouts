@@ -1,5 +1,7 @@
 # Forensics Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/forensics/
+
 ## Snapshot of Adventure
 Everywhere you go, you leave behind clues: fingerprints on your juice glass, DNA on your toothbrush, bits of fabric on your favorite chair, and footprints in your yard. Criminals leave behind clues, too. Forensic scientists study those clues to help law enforcement officers solve crimes.
 

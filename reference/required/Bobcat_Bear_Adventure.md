@@ -1,5 +1,7 @@
 # Bobcat Bear Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/bobcat/
+
 ## Snapshot of Adventure
 The Bobcat Adventure is the first required Adventure on the trail to earn the Bear badge of rank. Once the Bobcat Adventure is completed, Bears can start any other of the Adventures in any order.
 

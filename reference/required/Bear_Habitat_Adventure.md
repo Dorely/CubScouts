@@ -1,5 +1,7 @@
 # Bear Habitat Adventure
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/bear-habitat/
+
 ## Snapshot of Adventure
 A bear is at home in the outdoors, and so is a Bear Cub Scout. In this Adventure, you'll learn how to plan a one-mile walk with your den. Your walk may be around where you live, it may be on a historical trail that has been in use for hundreds of years, or it may be on a nature trail.
 

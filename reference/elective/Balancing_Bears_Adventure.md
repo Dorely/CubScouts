@@ -1,64 +1,77 @@
 # Balancing Bears Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/balancing-bears/
+
 ## Snapshot of Adventure
-Balance is a skill used in almost everything we do. When you walk, run, or ride a bike, you need balance. Your body relies on your muscles, eyes, and inner ear to help you balance. In this Adventure, you will develop your balance skills in a variety of ways, and you'll learn how other things balance too.
+You are probably familiar with a basic math problem like 3 + 2 = 5. Mathematicians don't call these problems; they call them equations. The equal sign means that the expressions on the left side and right side of the equal sign are the same, or you could think of them as being balanced.
+
+Math doesn't always involve adding and subtracting numbers. Finding patterns in things is the first step in becoming a mathematician. After spotting a pattern, a mathematician uses the math tools to find a way to recreate that pattern. In this Adventure, you'll have fun making "trail mix math." Then, you'll look to nature and discover a world of mathematics called symmetry in which things are balanced.
 
 ## Requirements
 
 ### Requirement 1
-Practice balancing as you walk forward, backward, and sideways.
+Make trail mix using trail mix math.
 
 ### Requirement 2
-Practice balancing on one foot, then the other foot.
+Identify an animal that has a pattern to its physical appearance. Investigate how the animal uses its pattern.
 
 ### Requirement 3
-While you are balancing on one foot, play a game of catch using a beanbag or a ball.
+Find examples of bilateral symmetry in nature.
 
 ### Requirement 4
-Balance a penny on edge. After 3 attempts, time how long you can balance it on the edge.
-
-### Requirement 5
-Balance a stick in your hand.
-
-### Requirement 6
-Using a simple balance scale, show how it works.
+Find examples of radial symmetry in nature.
 
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Cub Scouts practice walking on a balance beam
-- Cub Scouts practice balancing while walking on different surfaces
-- Practice balance walking exercises
+- **Bear Trail Mix Math**: Use math to make a bag of trail mix
+  - Create equations using different trail mix ingredients
+  - Practice measuring and counting ingredients
+  - Learn about ratios and proportions through snack-making
 
 ### Requirement 2 Activities
-- Cub Scouts practice standing on one foot for increasing amounts of time
-- Practice one-foot balance with eyes closed
-- Try balancing on one foot while doing different arm movements
+- **Patterns in the Animal World**: Pick an animal with a pattern and learn about it
+  - Research animals with stripes (zebras, tigers, skunks)
+  - Study animals with spots (leopards, dalmatians, ladybugs)
+  - Investigate how patterns help animals (camouflage, warning signals, temperature regulation)
+  - Create drawings or presentations about chosen animals
 
 ### Requirement 3 Activities
-- Cub Scouts play catch while balancing on one foot
-- Practice throwing and catching beanbags while maintaining balance
-- Balance game with ball toss
+- **Bilateral Symmetry Hunt**: Find bilateral symmetry in nature using a scavenger hunt
+  - Search outdoors for leaves, flowers, insects, and animals with bilateral symmetry
+  - Take photos of bilateral symmetry examples
+- **Bilateral Symmetry Snapshot**: Take a walk and photograph things with bilateral symmetry
+  - Look for butterflies, leaves, flowers, faces
+  - Create a collage of bilateral symmetry examples
 
 ### Requirement 4 Activities
-- Cub Scouts learn to balance coins on their edges
-- Practice balancing different coins and time the results
-- Coin balancing competition
-
-### Requirement 5 Activities
-- Cub Scouts practice balancing sticks of different lengths
-- Learn to balance walking sticks or dowels
-- Practice balancing sticks while moving
-
-### Requirement 6 Activities
-- Cub Scouts build and use a simple balance scale
-- Learn how balance scales work with different objects
-- Experiment with different weights on a balance scale
+- **Radial Symmetry Hunt**: Find radial symmetry in nature using a scavenger hunt
+  - Search for flowers, starfish, sea urchins, spider webs
+  - Identify the center point and radiating patterns
+- **Radial Symmetry Snapshot**: Take a walk and photograph things with radial symmetry
+  - Look for flowers (daisies, sunflowers), pinecones, fruits cut in cross-section
+  - Count the number of symmetry lines in different examples
 
 ## Safety Notes
+- **For Requirement 1:**
+  - Review Food Allergies safety moment
+  - Review each Cub Scout's Scouting America Annual Health and Medical Record for any food allergies or restrictions
+  - Ask if any member of the den has religious or cultural dietary concerns
+  - If someone carries an EpiPen, ensure at least one adult knows how to administer it
+  - Review Keep Your Food Safe guide for proper food handling
 - Use Scouting America SAFE Checklist for all activities
-- Ensure safe surfaces for balance activities to prevent falls
-- Provide spotters when needed for balance exercises
-- Start with easier balance activities and progress gradually
-- Clear area of obstacles that could cause injury if balance is lost
-- Supervise all activities involving small objects that could be choking hazards
+- Review Digital Safety and Online Scouting Activities guidelines
+- Before conducting craft activities, review the Craft Tips video (2:34)
+- For outdoor activities, provide appropriate supervision
+- Use buddy system when exploring nature
+
+## Key Concepts
+
+### Bilateral Symmetry
+An object has bilateral symmetry when it can be divided into two mirror-image halves along one plane. Examples: butterflies, human faces, leaves, most animals.
+
+### Radial Symmetry
+An object has radial symmetry when it has multiple lines of symmetry radiating from a center point, like spokes on a wheel. Examples: flowers, starfish, sea urchins, snowflakes.
+
+### Trail Mix Math
+Using mathematical concepts (counting, addition, fractions, ratios) to create a recipe for trail mix. For example: "Put 2 scoops of raisins, 3 scoops of peanuts, and 1 scoop of chocolate chips in each bag."

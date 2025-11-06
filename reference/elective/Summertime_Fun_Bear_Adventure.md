@@ -1,66 +1,25 @@
 # Summertime Fun Bear Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/summertime-fun-bear/
+
 ## Snapshot of Adventure
-Summer is a great time for outdoor fun and adventure! There are so many activities you can do when the weather is warm and the days are long. In this Adventure, you'll learn about summer safety and try some fun summer activities that will help you make the most of the sunny season.
+The summertime is a great time to get together with your den or pack. The requirement for this Adventure is simple. Participate in three Cub Scout activities during the summer months. This can be at council-organized camps like day camp or resident camp, or it can be a den or pack get-together for a summertime picnic.
+
+To earn this Adventure as a Bear, you participate in summer activities during the summer after you completed the 2nd grade. If you are just now learning about this Adventure don't worry, the requirement to earn it as a Webelos Cub Scout is exactly the same.
 
 ## Requirements
 
 ### Requirement 1
-Learn about summer safety, including sun protection and staying hydrated.
-
-### Requirement 2
-Participate in a summertime outdoor activity for at least 30 minutes.
-
-### Requirement 3
-Create something using natural materials you find outdoors.
-
-### Requirement 4
-Attend or participate in a community summertime event.
-
-### Requirement 5
-Learn about and try a new outdoor game.
-
-### Requirement 6
-Help plan and participate in a summertime pack or den outing.
+Anytime during May through August participate in a total of three Cub Scout activities.
 
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Cub Scouts learn about sunscreen and proper sun protection
-- Practice staying hydrated during outdoor activities
-- Learn about heat-related safety and recognizing heat exhaustion
-
-### Requirement 2 Activities
-- Cub Scouts participate in outdoor games and sports
-- Try hiking, nature walks, or outdoor exploration
-- Participate in water activities like sprinkler games
-
-### Requirement 3 Activities
-- Cub Scouts create art projects using leaves, sticks, and stones
-- Make nature collages or sculptures
-- Create outdoor decorations using natural materials
-
-### Requirement 4 Activities
-- Cub Scouts attend local summer festivals or community events
-- Participate in library summer reading programs
-- Attend outdoor concerts or community gatherings
-
-### Requirement 5 Activities
-- Cub Scouts learn traditional outdoor games like capture the flag
-- Try new sports or activities they haven't done before
-- Learn games from other cultures or countries
-
-### Requirement 6 Activities
-- Cub Scouts help plan pack picnics or outdoor meetings
-- Organize summer camp-outs or day camps
-- Plan outdoor service projects for the community
+- **Council activity**: Participate in an activity with your council
+- **Den activity**: Participate in an activity with your den
+- **Pack activity**: Participate in an activity with your pack
 
 ## Safety Notes
 - Use Scouting America SAFE Checklist for all activities
-- Apply sunscreen regularly during outdoor activities
-- Ensure adequate hydration especially during hot weather
-- Provide shade and rest breaks during extended outdoor time
-- Check weather conditions before outdoor activities
-- Have first aid supplies available for outdoor events
-- Use appropriate clothing and gear for summer activities
-- Monitor participants for signs of heat exhaustion or dehydration
+- Follow Guide to Safe Scouting guidelines
+- Be aware of state or local government regulations that supersede Scouting America practices, policies, and guidelines

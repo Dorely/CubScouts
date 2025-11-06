@@ -1,19 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.scouting.org)",
-      "WebSearch",
-      "WebSearch",
-      "WebSearch",
-      "mcp__fetcher__fetch_url",
-      "mcp__fetcher__fetch_urls",
-      "mcp__serena__list_dir",
-      "mcp__serena__activate_project",
-      "Bash(mkdir:*)",
-      "Bash(move \"C:\\Users\\jonth\\Source\\repos\\CubScouts\\reference\\Standing_Tall_Adventure.md\" \"C:\\Users\\jonth\\Source\\repos\\CubScouts\\reference\\required\"\")",
-      "Bash(move:*)",
-      "Bash(mv:*)",
-      "mcp__serena__find_file"
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_close",
+      "mcp__playwright__browser_snapshot"
     ],
     "deny": [],
     "ask": []

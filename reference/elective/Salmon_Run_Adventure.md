@@ -1,5 +1,7 @@
 # Salmon Run Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/salmon-run/
+
 ## Snapshot of Adventure
 Did you know that nearly three-fourths of the Earth is covered by water? It is! If you want to explore a lot of the world, you have to go by boat or know how to swim. Grizzly bears are animals that know how to swim even though they live in the forest. They swim in ice-cold rivers to catch the salmon they eat. As a Bear Scout, you will get to go swimming, too – not to catch fish, but to have fun. In this Adventure, you'll learn about swimming and boating and how to stay safe around the water.
 

@@ -1,5 +1,7 @@
 # Marble Madness Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/marble-madness/
+
 ## Snapshot of Adventure
 Long before board and video games, kids played with marbles. Those little balls of glass are just as fun to play with now as they were back then. In this Adventure, you'll play several different marble games. You'll also learn special words only marble players know and discover how to use marbles in mazes, obstacle courses, and more. Are you ready? Then grab your taws, aggies, and cat's eyes, and let's play marbles.
 

@@ -1,5 +1,7 @@
 # A Bear Goes Fishing Adventure (Elective)
 
+**Official Source**: https://www.scouting.org/cub-scout-adventures/a-bear-goes-fishing/
+
 ## Snapshot of Adventure
 Grizzly bears in the wild use their fishing skills to catch good, nutritious food. After you complete this Adventure, you'll be able to do the same thing. You won't have to use your paws and teeth, however. Instead, you'll use a cane pole or a rod and reel. You'll also learn about the fish that live nearby and the rules that must be followed when fishing. And who knows? You may discover a hobby that you can enjoy for years to come. So, grab your tackle, and let's go fishing.
 
