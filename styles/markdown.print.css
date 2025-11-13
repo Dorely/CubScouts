@@ -108,3 +108,55 @@ a { color: #000; text-decoration: none; }
 /* Compact lists */
 ul, ol { margin: 6pt 0 6pt 18pt; }
 li { margin: 2pt 0; }
+
+/* Worksheet-specific styles */
+/* Tables within worksheets: centered content, stronger borders */
+div[style*="text-align: center"] table {
+  border: 3pt solid #000;
+  margin: 20pt auto;
+  font-size: 11pt;
+  page-break-inside: auto;
+  border-collapse: collapse;
+}
+
+div[style*="text-align: center"] table td,
+div[style*="text-align: center"] table th {
+  border: 2pt solid #000;
+  padding: 10pt 8pt;
+  text-align: center;
+}
+
+/* First row of worksheet tables (the fraction box row) */
+div[style*="text-align: center"] table thead tr:first-child td,
+div[style*="text-align: center"] table tbody tr:first-child td {
+  height: 50pt;
+  vertical-align: middle;
+  font-size: 16pt;
+  font-weight: normal;
+  background: #fff;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+  border: 1pt solid #000;
+}
+
+/* Second row of worksheet tables (the ingredient names) */
+div[style*="text-align: center"] table tbody tr:last-child td {
+  background: #f5f5f5;
+  font-weight: 600;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+  border: 1pt solid #000;
+  padding: 6pt 8pt;
+}
+
+/* Remove zebra striping for worksheet tables */
+div[style*="text-align: center"] table tr:nth-child(even) td {
+  background: transparent;
+}
+
+/* Make fill-in-the-blank lines more visible */
+strong + em {
+  border-bottom: 1pt solid #000;
+  min-width: 100pt;
+  display: inline-block;
+}
