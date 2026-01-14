@@ -14,7 +14,7 @@ Discover natural resources.
 Discover what happens to the wastewater in your community.
 
 ### Requirement 3
-(Note: Requirement 3 title was missing from source, appears to focus on soil conservation)
+Investigate soil.
 
 ### Requirement 4
 Investigate air pollution.

@@ -44,9 +44,9 @@
 | December 2025 |  |  |  |
 | :--- | :--- | :--- | :--- |
 | Date | Event & Details | Snack Signup | Lesson Lead |
-| Dec 3 | **Elective Adventure** - Begin choice electives |  |  |
+| Dec 3 | **Elective Adventure** - Roaring Laughter (Part 1) |  |  |
 | Dec 6 | **In the Kiln (Pottery Outing)** |  |  |
-| Dec 10 | **Review Night / Advancement Check** + **Fellowship Take-Home Due** |  |  |
+| Dec 10 | **Elective Adventure** - Roaring Laughter (Part 2) |  |  |
 | Dec 17 | **Pack Christmas Party** |  |  |
 | Dec 24 | **NO MEETING** (Christmas Eve) |  |  |
 | Dec 31 | **NO MEETING** (New Year's Eve) |  |  |
@@ -54,7 +54,7 @@
 | January 2026 |  |  |  |
 | :--- | :--- | :--- | :--- |
 | Date | Event & Details | Snack Signup | Lesson Lead |
-| Jan 7 | **Elective Adventure** - Continue choice electives |  |  |
+| Jan 7 | **Elective Adventure** - Critter Care |  | Jennifer |
 | Jan 10 | **Stryker's Outing (Pack Event)** |  |  |
 | Jan 14 | **Elective Adventure** - Continue choice electives |  |  |
 | Jan 21 | **Elective Adventure** - Continue choice electives |  |  |

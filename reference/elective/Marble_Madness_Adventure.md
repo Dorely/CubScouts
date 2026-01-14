@@ -8,7 +8,7 @@ Long before board and video games, kids played with marbles. Those little balls 
 ## Requirements
 
 ### Requirement 1
-(Create marble bag - requirement title missing from source)
+Make a marble bag.
 
 ### Requirement 2
 Learn five words that are used when talking about marbles.
@@ -19,26 +19,20 @@ Play three different marble games.
 ### Requirement 4
 Build a marble racetrack with at least two lanes.
 
-### Requirement 5
-(Create marble maze - requirement title missing from source)
-
 ## Activity Ideas
 
 ### Requirement 1 Activities
-- Create a personal drawstring bag to hold your marbles
-- Make a personal drawstring bag to hold your marbles without sewing
+- **Make a Marble Bag**: Create a personal drawstring bag to hold your marbles.
+- **No Sew Marble Bag**: Make a personal drawstring bag to hold your marbles without sewing.
 
 ### Requirement 2 Activities
-- Cub Scouts learn marble jargon
+- **Marble Jargon**: Cub Scouts learn marble jargon.
 
 ### Requirement 3 Activities
-- Learn and play Ringer, Plums, and Dropsies
+- **Ringer, Plums, and Dropsies**: Learn and play Ringer, Plums, and Dropsies.
 
 ### Requirement 4 Activities
-- Create a marble racetrack from recycled materials
-
-### Requirement 5 Activities
-- Create a maze for marbles
+- **Marble Racetrack**: Create a marble racetrack from recycled materials.
 
 ## Safety Notes
 - Review craft tips video (2:34) before conducting craft activities
