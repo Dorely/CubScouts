@@ -105,6 +105,12 @@ table { page-break-inside: avoid; break-inside: avoid; }
 /* Links: remove underlines and show as plain text in print */
 a { color: #000; text-decoration: none; }
 
+/* Force a page start (apply class directly in Markdown with <div class="page-break"></div>) */
+.page-break {
+  break-before: page;
+  page-break-before: always;
+}
+
 /* Compact lists */
 ul, ol { margin: 6pt 0 6pt 18pt; }
 li { margin: 2pt 0; }

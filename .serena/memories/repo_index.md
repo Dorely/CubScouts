@@ -1,2 +1,0 @@
-- 2025-2026/Bear_Den_Denner_Rotation.md: Denner rotation table, How It Works, and Denner Duties (split; no attendance chart).
-- 2025-2026/Bear_Den_Attendance_Chart.md: Den meetings attendance table (names across 8 columns; use initials/✓).
