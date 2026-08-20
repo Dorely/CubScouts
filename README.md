@@ -1,6 +1,12 @@
 # CubScouts
 Planning docs for Cub Scouting
 
+## Current Calendar
+
+[`Current_Year/calendar.md`](Current_Year/calendar.md) is the tracked current-year calendar mirror.
+
+A local, gitignored `Current_Year/calendar.google-doc.md` may point to the authoritative Google Doc. When that file is present, the Google Doc is the source of truth and the Markdown calendar should be kept synchronized with it.
+
 ## Print Stylesheets (VS Code "Print" extension)
 This repo includes a global Markdown print stylesheet at `styles/markdown.print.css` for consistent, readable print/PDF output from VS Code.
 

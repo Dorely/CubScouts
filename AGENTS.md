@@ -21,6 +21,16 @@ Completed years belong in the archive. They may be consulted for context, but th
 
 Prefer building and using the repository's own documentation over fetching or restating material from outside the workspace.
 
+### Authoritative Current-Year Calendar
+
+The current-year calendar may have a live source configured in the gitignored file `Current_Year/calendar.google-doc.md`.
+
+- If `Current_Year/calendar.google-doc.md` exists, open its linked Google Doc and treat that document as authoritative for current-year dates, events, assignments, and schedule changes.
+- Keep `Current_Year/calendar.md` as a tracked Markdown mirror of the authoritative Google Doc. Reconcile the Markdown before relying on it, and update it after every live calendar change.
+- Make calendar changes in the Google Doc first, then mirror the same changes in `Current_Year/calendar.md`.
+- Do not put the Google Doc URL in tracked files or maintain a duplicate Word calendar.
+- If the local source file is absent or the Google Doc cannot be accessed, use the Markdown as the best available record and identify that it could not be verified against the authoritative calendar.
+
 Typical order of work:
 
 1. Establish or update the relevant reference documentation.
