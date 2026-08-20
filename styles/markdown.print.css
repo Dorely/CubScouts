@@ -80,16 +80,30 @@ table thead + tbody tr:first-child td {
 /* Reinforce vertical separators in some print engines */
 td + td, th + th { border-left: 1pt solid #333; }
 
-/* Column sizing for 4-column CALENDAR month tables only (tables that directly follow h3/h4 month headings):
-   Date | Event & Details | Snack | Lead. Avoid affecting non-calendar tables. */
+/* Column sizing for CALENDAR month tables (tables that directly follow h3/h4 month headings):
+   5-col: Date | Event & Details | Snack | Lead | Denner
+   4-col (archived): Date | Event & Details | Snack | Lead — restored via :has() when Denner column absent.
+   Fix: Date column must wrap in print — long entries like "Sat, Aug 22 • 12:00–2:30 PM" and
+   "Fri, Sep 25 – Mon, Sep 28 • All Day" previously used white-space:nowrap and bled into next column. */
 h3 + table th:first-child, h3 + table td:first-child,
-h4 + table th:first-child, h4 + table td:first-child { white-space: nowrap; width: 10%; }
+h4 + table th:first-child, h4 + table td:first-child { white-space: normal; overflow-wrap: anywhere; word-break: normal; hyphens: none; width: 19%; font-size: 9pt; line-height: 1.25; }
 h3 + table th:nth-child(2), h3 + table td:nth-child(2),
-h4 + table th:nth-child(2), h4 + table td:nth-child(2) { width: 65%; }
+h4 + table th:nth-child(2), h4 + table td:nth-child(2) { width: 45%; }
 h3 + table th:nth-child(3), h3 + table td:nth-child(3),
-h4 + table th:nth-child(3), h4 + table td:nth-child(3) { width: 12.5%; }
+h4 + table th:nth-child(3), h4 + table td:nth-child(3) { width: 12%; }
 h3 + table th:nth-child(4), h3 + table td:nth-child(4),
-h4 + table th:nth-child(4), h4 + table td:nth-child(4) { width: 12.5%; }
+h4 + table th:nth-child(4), h4 + table td:nth-child(4) { width: 12%; }
+h3 + table th:nth-child(5), h3 + table td:nth-child(5),
+h4 + table th:nth-child(5), h4 + table td:nth-child(5) { width: 12%; }
+/* Restore 4-column proportions when no Denner column is present (modern Chromium) — also allow wrapping */
+h3 + table:not(:has(th:nth-child(5))) th:first-child, h3 + table:not(:has(th:nth-child(5))) td:first-child,
+h4 + table:not(:has(th:nth-child(5))) th:first-child, h4 + table:not(:has(th:nth-child(5))) td:first-child { white-space: normal; overflow-wrap: anywhere; word-break: normal; hyphens: none; width: 16%; font-size: 9pt; line-height: 1.25; }
+h3 + table:not(:has(th:nth-child(5))) th:nth-child(2), h3 + table:not(:has(th:nth-child(5))) td:nth-child(2),
+h4 + table:not(:has(th:nth-child(5))) th:nth-child(2), h4 + table:not(:has(th:nth-child(5))) td:nth-child(2) { width: 59%; }
+h3 + table:not(:has(th:nth-child(5))) th:nth-child(3), h3 + table:not(:has(th:nth-child(5))) td:nth-child(3),
+h4 + table:not(:has(th:nth-child(5))) th:nth-child(3), h4 + table:not(:has(th:nth-child(5))) td:nth-child(3) { width: 12.5%; }
+h3 + table:not(:has(th:nth-child(5))) th:nth-child(4), h3 + table:not(:has(th:nth-child(5))) td:nth-child(4),
+h4 + table:not(:has(th:nth-child(5))) th:nth-child(4), h4 + table:not(:has(th:nth-child(5))) td:nth-child(4) { width: 12.5%; }
 h3 + table th, h4 + table th { background: #f0f0f0; font-weight: 700; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
 /* Subtle zebra striping for readability in print */
