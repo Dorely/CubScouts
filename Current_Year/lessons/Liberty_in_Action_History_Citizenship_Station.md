@@ -14,10 +14,10 @@ Scouts learn that declaring independence happened through several separate steps
 
 - Print one leader copy of the [leader script and answer key](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
 - Print and cut apart the five [audience-response cue cards](../resources/Liberty_in_Action_Audience_Response_Cards.md); keep the sixth leader-reminder card with the script.
-- Print the [flag cutouts](../resources/Liberty_in_Action_Flag_Cards.md) in color using `../../styles/markdown.print.css`, then cut apart the five cards.
+- Print the [flag cutouts](../resources/Liberty_in_Action_Flag_Cards.md) in color using `../../styles/markdown.print.css`, then cut apart the six cards.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
 - Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
-- Shuffle the five flag cards before every rotation.
+- Shuffle the six flag cards before every rotation.
 - Assign one Webelos or adult to collect and reshuffle the cards during the closing message.
 
 ## Supplies
@@ -25,7 +25,7 @@ Scouts learn that declaring independence happened through several separate steps
 - Printed leader script
 - Five audience-response cue cards
 - Leader-reminder card
-- Five printed flag cards
+- Six printed flag cards
 - **EARLIEST** and **TODAY** labels
 - Scissors or paper cutter for advance preparation only
 - Timer
@@ -36,7 +36,7 @@ Scouts learn that declaring independence happened through several separate steps
 | :--- | :--- |
 | 0:00–1:30 | Welcome the group and practice the five audience responses. |
 | 1:30–7:00 | Perform “The Decision for Independence.” |
-| 7:00–11:30 | Scouts arrange five American flags from earliest to current. |
+| 7:00–11:30 | Scouts arrange six American flags from earliest to current. |
 | 11:30–14:00 | Reveal the answer, discuss the important design changes, and complete the learning check. |
 | 14:00–15:00 | Give the closing message while the reset lead collects and shuffles the cards. |
 
@@ -58,9 +58,9 @@ Read briskly, pausing after each bold cue word. Point to a group's cue card if i
 
 ## Activity 2 — American Flags Through the Years
 
-Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
+Place the **EARLIEST** and **TODAY** labels several feet apart. Give the six shuffled flag cards to six Scouts or small teams.
 
-This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. The cards use clean public-domain flag files from Wikipedia's historical progression.
+This is a selected timeline, not all 27 official versions of the flag. It jumps from the 20-star flag to the 48-star flag so the activity can fit the rotation, then includes both the 49-star and 50-star designs. The cards use clean public-domain flag files from Wikipedia's historical progression.
 
 Say:
 
@@ -82,11 +82,12 @@ Give only as many clues as the group needs:
 2. “For a while, the country added both stars and stripes.”
 3. “In 1818, Congress returned the flag to 13 stripes and used one star for each state.”
 4. “The 48-star design is the first card whose star arrangement was officially standardized.”
-5. “Hawaii provided the 50th star on the flag used today.”
+5. “The 49-star flag was used for only one year.”
+6. “Hawaii provided the 50th star on the flag used today.”
 
 ### Reveal
 
-The correct card order is **E → D → C → B → A**.
+The correct card order is **E → D → C → B → F → A**.
 
 Walk down the line using the leader answer key. Emphasize:
 
@@ -94,7 +95,8 @@ Walk down the line using the leader answer key. Emphasize:
 - The 15-star flag also had 15 stripes. Card D shows the Star-Spangled Banner design.
 - Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C has 20 stars in four rows of five.
 - The 48-star arrangement was standardized in 1912. Card B has six rows of eight stars.
-- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A has nine staggered rows of six and five stars.
+- Card F has 49 stars in seven rows of seven. It was used for one year after Alaska became a state.
+- The 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A has nine staggered rows of six and five stars.
 
 ## Learning Check
 
@@ -113,8 +115,8 @@ Ask:
 - Keep the story lively; it should feel like the audience is inside the crowded room in Philadelphia.
 - For Lions and Tigers, let everyone perform every response and help them count stars by rows.
 - For older Scouts, ask why July 2, July 4, and August 2 each matter.
-- If fewer than five Scouts attend, one Scout or adult may hold more than one flag.
-- If more than five attend, make each card a team and have team members advise their card holder.
+- If fewer than six Scouts attend, one Scout or adult may hold more than one flag.
+- If more than six attend, make each card a team and have team members advise their card holder.
 - If color printing is unavailable, label the back of each card with its letter and outline the blue canton with a marker before the event.
 
 ## Safety and Accessibility

@@ -32,7 +32,7 @@ New York approved the action on July 9. The thirteen **COLONIES** had acted toge
 
 ## Leader Answer Key
 
-This selected timeline is not every official version. It omits several designs, including the 49-star flag used from July 4, 1959, through July 3, 1960.
+This selected timeline is not every official version. It jumps from the 20-star flag to the 48-star flag so the activity remains short, then includes the one-year 49-star design before today's flag.
 
 | Order | Card | Flag and period | Teaching fact |
 | :---: | :---: | :--- | :--- |
@@ -40,11 +40,12 @@ This selected timeline is not every official version. It omits several designs, 
 | 2 | **D** | 15-star, 15-stripe flag, 1795–1818 | Vermont and Kentucky brought both totals to 15. This is the Star-Spangled Banner design. |
 | 3 | **C** | 20-star flag, 1818–1819 | Congress restored the number of stripes to 13 and provided one star for each state. This design has four rows of five stars. |
 | 4 | **B** | 48-star flag, 1912–1959 | The 48 stars are arranged in six rows of eight. This was the first standardized star arrangement. |
-| 5 | **A** | 50-star flag, July 4, 1960–present | Hawaii's admission supplied the 50th star. The stars appear in nine staggered rows of six and five. |
+| 5 | **F** | 49-star flag, July 4, 1959–July 3, 1960 | Alaska's admission supplied the 49th star. This one-year design has seven rows of seven stars. |
+| 6 | **A** | 50-star flag, July 4, 1960–present | Hawaii's admission supplied the 50th star. The stars appear in nine staggered rows of six and five. |
 
 ## Quick Reveal Script
 
-> **E** comes first: 13 stars and 13 stripes for the first 13 states. **D** comes next: when Vermont and Kentucky joined, both stars and stripes increased to 15. **C** shows the 1818 solution—return to 13 stripes and keep adding stars. Many designs followed. **B** has 48 stars in the first officially standardized arrangement. After a one-year 49-star flag, **A** became today's 50-star flag.
+> **E** comes first: 13 stars and 13 stripes for the first 13 states. **D** comes next: when Vermont and Kentucky joined, both stars and stripes increased to 15. **C** shows the 1818 solution—return to 13 stripes and keep adding stars. Many designs followed. **B** has 48 stars in the first officially standardized arrangement. **F** is the one-year 49-star flag added after Alaska joined. **A** became today's 50-star flag after Hawaii joined.
 
 ## Story Source
 
