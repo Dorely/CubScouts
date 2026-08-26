@@ -1,16 +1,10 @@
-# Liberty in Action — History & Citizenship Printables
+# Liberty in Action — Leader Script & Answer Key
 
-Print one leader copy of the story and answer key. Print the flag-card page in color and cut along the table borders. Every flag is placed in the same 3:2 print area so the cards print at equal sizes.
+Print one leader copy for the station. The [audience-response cue cards](Liberty_in_Action_Audience_Response_Cards.md) and [flag cutouts](Liberty_in_Action_Flag_Cards.md) are separate printables.
 
 ## Leader Script — “The Decision for Independence”
 
-### Audience Responses
-
-- **CONGRESS** — Tap an imaginary gavel and say, “Order!”
-- **COLONY** or **COLONIES** — Hold up both hands and say, “Thirteen together!”
-- **INDEPENDENCE**, **INDEPENDENT**, or **FREE** — Raise both hands and say, “Choose our future!”
-- **DECLARATION** — Pretend to unroll a document and say, “Hear the reasons!”
-- **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** — Press both palms down and say, “Ink to paper!”
+Before reading, distribute and practice the five [audience-response cue cards](Liberty_in_Action_Audience_Response_Cards.md). Pause after each bold cue word so Scouts can respond.
 
 ### Story
 
@@ -36,22 +30,6 @@ New York approved the action on July 9. The thirteen **COLONIES** had acted toge
 
 <div class="page-break"></div>
 
-## Cut-Apart Flag Cards
-
-<style>
-table img { width: 95%; aspect-ratio: 3 / 2; object-fit: contain; }
-</style>
-
-The letters are deliberately out of chronological order. Do not write dates on the fronts. The five images are unchanged public-domain flag files displayed in Wikipedia's historical progression.
-
-|  |  |
-| :---: | :---: |
-| **FLAG C**<br><img src="liberty_in_action_flags/flag-c-20-star.svg" alt="Twenty-star United States flag used from 1818 to 1819" style="width: 95%;"> | **FLAG A**<br><img src="liberty_in_action_flags/flag-a-50-star.svg" alt="Current fifty-star United States flag" style="width: 95%;"> |
-| **FLAG E**<br><img src="liberty_in_action_flags/flag-e-13-star.svg" alt="Thirteen-star United States flag used from 1777 to 1795" style="width: 95%;"> | **FLAG B**<br><img src="liberty_in_action_flags/flag-b-48-star.svg" alt="Forty-eight-star United States flag used from 1912 to 1959" style="width: 95%;"> |
-| **FLAG D**<br><img src="liberty_in_action_flags/flag-d-15-star.svg" alt="Fifteen-star and fifteen-stripe Star-Spangled Banner design used from 1795 to 1818" style="width: 95%;"> | **EARLIEST** ←————————→ **TODAY** |
-
-<div class="page-break"></div>
-
 ## Leader Answer Key
 
 This selected timeline is not every official version. It omits several designs, including the 49-star flag used from July 4, 1959, through July 3, 1960.
@@ -68,6 +46,6 @@ This selected timeline is not every official version. It omits several designs, 
 
 > **E** comes first: 13 stars and 13 stripes for the first 13 states. **D** comes next: when Vermont and Kentucky joined, both stars and stripes increased to 15. **C** shows the 1818 solution—return to 13 stripes and keep adding stars. Many designs followed. **B** has 48 stars in the first officially standardized arrangement. After a one-year 49-star flag, **A** became today's 50-star flag.
 
-## Flag Image Source
+## Story Source
 
-The five cards use the public-domain SVG files displayed in the historical progression on [List of flags of the United States](https://en.wikipedia.org/wiki/List_of_flags_of_the_United_States). The files are stored locally without modification so the printable does not depend on an internet connection.
+The story dates follow [Creating the Declaration: A Timeline — National Archives](https://www.archives.gov/founding-docs/timeline).

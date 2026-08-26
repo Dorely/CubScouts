@@ -12,8 +12,9 @@ Scouts learn that declaring independence happened through several separate steps
 
 ## Advance Preparation
 
-- Print one leader copy of the story and answer key from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five cards.
+- Print one leader copy of the [leader script and answer key](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
+- Print and cut apart the five [audience-response cue cards](../resources/Liberty_in_Action_Audience_Response_Cards.md); keep the sixth leader-reminder card with the script.
+- Print the [flag cutouts](../resources/Liberty_in_Action_Flag_Cards.md) in color using `../../styles/markdown.print.css`, then cut apart the five cards.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
 - Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
 - Shuffle the five flag cards before every rotation.
@@ -22,11 +23,12 @@ Scouts learn that declaring independence happened through several separate steps
 ## Supplies
 
 - Printed leader script
+- Five audience-response cue cards
+- Leader-reminder card
 - Five printed flag cards
 - **EARLIEST** and **TODAY** labels
 - Scissors or paper cutter for advance preparation only
 - Timer
-- Optional: five audience-response cue cards
 
 ## 15-Minute Rotation
 
@@ -52,7 +54,7 @@ For a large group, assign one response to each section. For a small group, every
 | **DECLARATION** | Pretend to unroll a document and say, “Hear the reasons!” |
 | **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** | Press both palms down and say, “Ink to paper!” |
 
-Read briskly, pausing after each bold cue word. Point to a group's cue card if it needs help. The complete script is in the printables.
+Read briskly, pausing after each bold cue word. Point to a group's cue card if it needs help. The complete script is in the [leader printable](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
 
 ## Activity 2 — American Flags Through the Years
 
