@@ -13,7 +13,7 @@ Scouts learn that declaring independence happened through several separate steps
 ## Advance Preparation
 
 - Print one leader copy of the story and answer key from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Review the paired cards in the printables. Print the five flag-card pages in color using `../../styles/markdown.print.css`, then cut out either all five earlier interpretations from the left column or all five cleaned historical interpretations from the right column. Optionally cut out both columns for variety between rotations.
+- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five cards.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
 - Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
 - Shuffle the five flag cards before every rotation.
@@ -22,8 +22,7 @@ Scouts learn that declaring independence happened through several separate steps
 ## Supplies
 
 - Printed leader script
-- One complete set of five printed flag cards
-- Optional: the second five-card visual treatment
+- Five printed flag cards
 - **EARLIEST** and **TODAY** labels
 - Scissors or paper cutter for advance preparation only
 - Timer
@@ -59,7 +58,7 @@ Read briskly, pausing after each bold cue word. Point to a group's cue card if i
 
 Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
 
-This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. The printables place the earlier generated interpretations beside newly generated, cleaned historical interpretations of the same examples. Both treatments use the same card letters and answer key; use one full treatment at a time.
+This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. The cards use clean public-domain flag files from Wikipedia's historical progression.
 
 Say:
 
@@ -89,11 +88,11 @@ The correct card order is **E → D → C → B → A**.
 
 Walk down the line using the leader answer key. Emphasize:
 
-- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable interpretation inspired by a surviving circa-1790 flag, not a mandated arrangement.
-- The 15-star flag also had 15 stripes. Card D follows the original Star-Spangled Banner's five offset rows of three stars and its unusually wide proportions.
-- Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C follows a surviving 1818 20-star flag.
-- The 48-star arrangement was standardized in 1912. Card B is informed by a 1945 flag made from parachute silk by American prisoners of war.
-- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A is informed by a 1960 photograph of workers sewing the new design.
+- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E shows one common grid arrangement.
+- The 15-star flag also had 15 stripes. Card D shows the Star-Spangled Banner design.
+- Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C has 20 stars in four rows of five.
+- The 48-star arrangement was standardized in 1912. Card B has six rows of eight stars.
+- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A has nine staggered rows of six and five stars.
 
 ## Learning Check
 
@@ -123,18 +122,7 @@ Ask:
 - Describe each flag aloud so Scouts do not need to rely only on color or small visual details.
 - Offer seated roles such as narrator, cue leader, star counter, or answer-key reader.
 
-## Historical Fact Check
+## Sources
 
-The story and flag timeline were checked on Aug 25, 2026 against these authoritative sources:
-
-- [Creating the Declaration: A Timeline — National Archives](https://www.archives.gov/founding-docs/timeline)
-- [Symbols of the United States — Library of Congress](https://www.loc.gov/classroom-materials/symbols-of-the-united-states/)
-- [Today in History: June 14 — Library of Congress](https://www.loc.gov/item/today-in-history/june-14/)
-- [Today in History: April 13 — Library of Congress](https://www.loc.gov/item/today-in-history/april-13/)
-- [The Star-Spangled Banner — Smithsonian National Museum of American History](https://www.americanhistory.si.edu/visual-descriptions/visual-description-star-spangled-banner)
-- [13-star flag, circa 1790 — Tennessee State Museum](https://tnmuseum.org/TN225/artifacts/016)
-- [The original Star-Spangled Banner — Library of Congress](https://www.loc.gov/pictures/item/2016821431/)
-- [U.S. 20-Star Flag, 1818 — Zaricor Flag Collection](https://www.flagcollection.com/itemdetails.php?CollectionItem_ID=3103)
-- [Flag made by POWs flies over Bataan — DVIDS](https://www.dvidshub.net/image/9871073/flag-made-pows-flies-over-bataan)
-- [Workers sewing 50-star flags, June 1960 — Library of Congress](https://www.loc.gov/pictures/item/2023631223/)
-- [Executive Order 10834 — National Archives](https://www.archives.gov/federal-register/codification/executive-order/10834.html)
+- Story dates: [Creating the Declaration: A Timeline — National Archives](https://www.archives.gov/founding-docs/timeline)
+- Flag progression and printable image files: [List of flags of the United States — Wikipedia](https://en.wikipedia.org/wiki/List_of_flags_of_the_United_States)
