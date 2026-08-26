@@ -13,7 +13,7 @@ Scouts learn that declaring independence happened through several separate steps
 ## Advance Preparation
 
 - Print one leader copy of the story and answer key from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five equal-size cards.
+- Review the paired cards in the printables. Print the five flag-card pages in color using `../../styles/markdown.print.css`, then cut out either all five earlier interpretations from the left column or all five cleaned historical interpretations from the right column. Optionally cut out both columns for variety between rotations.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
 - Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
 - Shuffle the five flag cards before every rotation.
@@ -22,7 +22,8 @@ Scouts learn that declaring independence happened through several separate steps
 ## Supplies
 
 - Printed leader script
-- Five printed flag cards
+- One complete set of five printed flag cards
+- Optional: the second five-card visual treatment
 - **EARLIEST** and **TODAY** labels
 - Scissors or paper cutter for advance preparation only
 - Timer
@@ -58,7 +59,7 @@ Read briskly, pausing after each bold cue word. Point to a group's cue card if i
 
 Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
 
-This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. Each card is a consistently styled vector illustration inspired by a real surviving flag or historical photograph; the design references and credits are in the printables.
+This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. The printables place the earlier generated interpretations beside newly generated, cleaned historical interpretations of the same examples. Both treatments use the same card letters and answer key; use one full treatment at a time.
 
 Say:
 
@@ -88,8 +89,8 @@ The correct card order is **E → D → C → B → A**.
 
 Walk down the line using the leader answer key. Emphasize:
 
-- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable vector interpretation inspired by a surviving circa-1790 flag, not a mandated arrangement.
-- The 15-star flag also had 15 stripes. Card D is informed by the original Star-Spangled Banner that flew at Fort McHenry.
+- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable interpretation inspired by a surviving circa-1790 flag, not a mandated arrangement.
+- The 15-star flag also had 15 stripes. Card D follows the original Star-Spangled Banner's five offset rows of three stars and its unusually wide proportions.
 - Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C follows a surviving 1818 20-star flag.
 - The 48-star arrangement was standardized in 1912. Card B is informed by a 1945 flag made from parachute silk by American prisoners of war.
 - A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A is informed by a 1960 photograph of workers sewing the new design.
@@ -136,3 +137,4 @@ The story and flag timeline were checked on Aug 25, 2026 against these authorita
 - [U.S. 20-Star Flag, 1818 — Zaricor Flag Collection](https://www.flagcollection.com/itemdetails.php?CollectionItem_ID=3103)
 - [Flag made by POWs flies over Bataan — DVIDS](https://www.dvidshub.net/image/9871073/flag-made-pows-flies-over-bataan)
 - [Workers sewing 50-star flags, June 1960 — Library of Congress](https://www.loc.gov/pictures/item/2023631223/)
+- [Executive Order 10834 — National Archives](https://www.archives.gov/federal-register/codification/executive-order/10834.html)
