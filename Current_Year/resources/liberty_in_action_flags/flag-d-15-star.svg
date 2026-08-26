@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1000" role="img" aria-labelledby="title desc">
+  <title id="title">15-star and 15-stripe United States flag</title>
+  <desc id="desc">Fifteen red and white stripes with fifteen white stars in five offset rows on a blue canton, representing the official design used from 1795 to 1818.</desc>
+  <defs>
+    <polygon id="star" points="0,-1 0.2245,-0.309 0.9511,-0.309 0.3633,0.118 0.5878,0.809 0,0.382 -0.5878,0.809 -0.3633,0.118 -0.9511,-0.309 -0.2245,-0.309" fill="#fff"/>
+  </defs>
+  <rect width="1900" height="1000" fill="#fff"/>
+  <g fill="#B22234">
+    <rect width="1900" height="66.667" y="0"/>
+    <rect width="1900" height="66.667" y="133.333"/>
+    <rect width="1900" height="66.667" y="266.667"/>
+    <rect width="1900" height="66.667" y="400"/>
+    <rect width="1900" height="66.667" y="533.333"/>
+    <rect width="1900" height="66.667" y="666.667"/>
+    <rect width="1900" height="66.667" y="800"/>
+    <rect width="1900" height="66.667" y="933.333"/>
+  </g>
+  <rect width="760" height="533.333" fill="#3C3B6E"/>
+  <g>
+    <use href="#star" transform="translate(130 55) scale(31)"/>
+    <use href="#star" transform="translate(355 55) scale(31)"/>
+    <use href="#star" transform="translate(580 55) scale(31)"/>
+    <use href="#star" transform="translate(242 160) scale(31)"/>
+    <use href="#star" transform="translate(467 160) scale(31)"/>
+    <use href="#star" transform="translate(692 160) scale(31)"/>
+    <use href="#star" transform="translate(130 266) scale(31)"/>
+    <use href="#star" transform="translate(355 266) scale(31)"/>
+    <use href="#star" transform="translate(580 266) scale(31)"/>
+    <use href="#star" transform="translate(242 372) scale(31)"/>
+    <use href="#star" transform="translate(467 372) scale(31)"/>
+    <use href="#star" transform="translate(692 372) scale(31)"/>
+    <use href="#star" transform="translate(130 478) scale(31)"/>
+    <use href="#star" transform="translate(355 478) scale(31)"/>
+    <use href="#star" transform="translate(580 478) scale(31)"/>
+  </g>
+</svg>

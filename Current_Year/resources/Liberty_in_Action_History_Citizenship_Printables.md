@@ -1,98 +1,65 @@
 # Liberty in Action — History & Citizenship Printables
 
-Print one leader copy of the story and one copy of the symbol cards for the **History & Citizenship Discovery** station.
+Print one leader copy of the story and answer key. Print the flag-card page in color and cut along the table borders.
 
-## Leader Script — “Cub Scouts Do Their Best!”
+## Leader Script — “The Decision for Independence”
 
 ### Audience Responses
 
-- **SCOUT** or **SCOUTS** — Give the Cub Scout sign and say, “Do your best!”
-- **LIBERTY** or **FREEDOM** — Pretend to ring a bell and say, “Ding, ding!”
-- **FLAG** — Wave one hand and say, “Stars and stripes!”
-- **EAGLE** — Spread both arms like wings and say, “Soar!”
-- **AMERICA** — Everyone performs all four responses, in order.
+- **CONGRESS** — Tap an imaginary gavel and say, “Order!”
+- **COLONY** or **COLONIES** — Hold up both hands and say, “Thirteen together!”
+- **INDEPENDENCE**, **INDEPENDENT**, or **FREE** — Raise both hands and say, “Choose our future!”
+- **DECLARATION** — Pretend to unroll a document and say, “Hear the reasons!”
+- **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** — Press both palms down and say, “Ink to paper!”
 
 ### Story
 
-At an **AMERICA** 250 celebration, two Cub **SCOUTS**, Alex and Sam, were getting a history station ready. Alex held up a picture of the **FLAG**. Sam held up a picture of an **EAGLE**.
+Philadelphia was hot in the summer of 1776, and the meeting room of the Second Continental **CONGRESS** was crowded. Outside, the war with Great Britain had already begun. Inside, delegates from the **COLONIES** faced an enormous question: should the colonies become **INDEPENDENT** states?
 
-“These are important,” Alex said, “but do we know why?”
+On June 7, Richard Henry Lee of Virginia stood before **CONGRESS**. He proposed that the united **COLONIES** “are, and of right ought to be, free and independent States.” Some delegates were ready. Others had been told by their **COLONY** not to vote yet. **CONGRESS** postponed the decision while the delegates sought new instructions.
 
-Just then, they found an old trunk with a note on top: “To understand citizenship, follow the symbols of **AMERICA**.” When they opened the trunk, a bright light flashed—and the two **SCOUTS** landed in Philadelphia in 1776.
+The question could not wait forever. **CONGRESS** appointed five people to prepare a **DECLARATION** explaining why the **COLONIES** might separate from Great Britain. Thomas Jefferson wrote the first draft. John Adams and Benjamin Franklin suggested changes. Then the committee presented the **DECLARATION** to **CONGRESS**.
 
-Leaders from the thirteen colonies were debating the Declaration of Independence. On July 4, the Continental Congress adopted the Declaration, announcing that the colonies were independent. It expressed important ideals about equality and rights. **AMERICA** has spent the generations since then working to live up to those ideals more fully.
+On July 2, the delegates voted on Lee's resolution for **INDEPENDENCE**. Twelve **COLONIES** voted yes. New York did not vote because its delegates were still waiting for permission. The resolution passed: the united **COLONIES** had chosen to be **FREE** and **INDEPENDENT** states.
 
-Nearby was the bell from the Pennsylvania State House. Years later, people began calling it the Liberty Bell. Its famous crack did not stop it from becoming a symbol of **LIBERTY**.
+But the work was not finished. The delegates debated the words of the **DECLARATION**. They changed some passages and removed others. They wanted the document to announce their decision and explain their reasons to the world.
 
-The trunk flashed again. The **SCOUTS** landed in 1782, when the bald **EAGLE** became part of the Great Seal and a national emblem. The strong bird, native to North America, came to represent the young country.
+Late on the morning of July 4, **CONGRESS** adopted the **DECLARATION**. The document stated important ideals about equality, rights, and government by the consent of the governed. The committee carried the approved words to John Dunlap, the official **PRINTER** for **CONGRESS**.
 
-Another flash carried Alex and Sam to Baltimore in 1814. After a long night of battle at Fort McHenry, a large American **FLAG** was still flying. Francis Scott Key saw it and wrote a poem. Later, his words became “The Star-Spangled Banner,” the national anthem.
+That night, Dunlap's shop filled with the sounds of type, ink, paper, and the wooden **PRINT** press. By the morning of July 5, the first **PRINTED** broadsides were ready. Members of **CONGRESS** sent **COPIES** to assemblies, conventions, committees of safety, and commanders of Continental troops.
 
-The trunk flashed once more. The **SCOUTS** arrived in New York Harbor in 1886, where the Statue of **LIBERTY**, a gift of friendship from France, was dedicated. Its raised torch became a symbol of **FREEDOM** and welcome.
+The famous parchment **DECLARATION** was prepared later. Most members of **CONGRESS** signed that copy on August 2, not July 4. Others signed still later.
 
-At last, Alex and Sam returned to their station. The pictures had not changed, but now the **SCOUTS** saw stories behind the symbols: people declaring their ideals, choosing an **EAGLE** as an emblem, defending a **FLAG**, and giving a statue in friendship.
+The founding decision was not one quick scene. First came debate. On July 2 came the vote for **INDEPENDENCE**. On July 4 came the adopted words and the work of the **PRINTER**. Then the **COPIES** carried those words outward, and the signatures followed.
 
-Sam asked, “Is knowing those stories all it takes to be a good citizen?”
-
-Alex shook their head. “History gives us examples and ideals. Citizenship means respecting other people's rights, helping our communities, participating, and doing our best.”
-
-The two **SCOUTS** finished setting up their station. When the first group arrived, Alex and Sam knew exactly what to say:
-
-“Welcome to the history of **AMERICA**. Now let's see how Cub **SCOUTS** do their best!”
+New York approved the action on July 9. The thirteen **COLONIES** had acted together. They had declared themselves **FREE** and **INDEPENDENT**, and they had given the world a **DECLARATION** of their reasons.
 
 <div class="page-break"></div>
 
-## Cut-Apart Symbol Cards
+## Cut-Apart Flag Cards
 
-Cut along the horizontal rules. Hide the four cards around the station with the symbol name facing outward.
+The letters are deliberately out of chronological order. Do not write dates on the fronts.
 
----
+|  |  |
+| :---: | :---: |
+| **FLAG C**<br><img src="liberty_in_action_flags/flag-c-20-star.svg" alt="Representative 20-star United States flag" style="width: 95%;"> | **FLAG A**<br><img src="liberty_in_action_flags/flag-a-50-star.svg" alt="Current 50-star United States flag" style="width: 95%;"> |
+| **FLAG E**<br><img src="liberty_in_action_flags/flag-e-13-star.svg" alt="Representative 13-star United States flag" style="width: 95%;"> | **FLAG B**<br><img src="liberty_in_action_flags/flag-b-48-star.svg" alt="48-star United States flag" style="width: 95%;"> |
+| **FLAG D**<br><img src="liberty_in_action_flags/flag-d-15-star.svg" alt="15-star and 15-stripe United States flag" style="width: 95%;"> | **EARLIEST** ←————————→ **TODAY** |
 
-### 🇺🇸 American Flag
+<div class="page-break"></div>
 
-**Clue:** I have stars for the states and stripes for the original colonies.
+## Leader Answer Key
 
-**History fact:** Today's flag has 50 stars and 13 stripes. The large flag flying over Fort McHenry in 1814 inspired the poem that became “The Star-Spangled Banner.”
+This selected timeline is not every official version. It omits several designs, including the 49-star flag used from July 4, 1959, through July 3, 1960.
 
-**Represents:** The United States and its people.
+| Order | Card | Flag and period | Teaching fact |
+| :---: | :---: | :--- | :--- |
+| 1 | **E** | Representative 13-star flag, 1777–1795 | The 1777 resolution required 13 alternating stripes and 13 white stars on blue, but did not specify the star arrangement. Early flag makers used several patterns. |
+| 2 | **D** | 15-star, 15-stripe flag, 1795–1818 | Vermont and Kentucky brought the totals to 15. The Star-Spangled Banner that flew at Fort McHenry used this design. |
+| 3 | **C** | Representative 20-star flag, 1818–1819 | Congress restored the number of stripes to 13 and provided one star for each state. Star arrangements were still not standardized. |
+| 4 | **B** | 48-star flag, 1912–1959 | President Taft standardized the stars into six rows of eight in 1912. |
+| 5 | **A** | 50-star flag, July 4, 1960–present | Hawaii's admission supplied the 50th star. The stars appear in nine staggered rows of six and five. |
 
----
+## Quick Reveal Script
 
-### 🔔 Liberty Bell
-
-**Clue:** I am a famous cracked bell in Philadelphia.
-
-**History fact:** The bell originally hung in the Pennsylvania State House, now called Independence Hall. It later became an enduring symbol of liberty.
-
-**Represents:** Liberty and the continuing work of extending freedom.
-
----
-
-### 🦅 Bald Eagle
-
-**Clue:** I am a national emblem with feathers and wings.
-
-**History fact:** The bald eagle became part of the Great Seal of the United States in 1782.
-
-**Represents:** The nation, strength, and independence.
-
----
-
-### 🗽 Statue of Liberty
-
-**Clue:** I was a gift from France and hold a torch in New York Harbor.
-
-**History fact:** The Statue of Liberty was dedicated in 1886 as a gift of friendship from the people of France.
-
-**Represents:** Liberty, friendship, and welcome.
-
----
-
-## Quick Answer Key
-
-| Symbol | Date or period emphasized | Key connection |
-| :--- | :--- | :--- |
-| American flag | 1814 | Fort McHenry and “The Star-Spangled Banner” |
-| Liberty Bell | Colonial and founding era | Independence Hall and liberty |
-| Bald eagle | 1782 | Great Seal and national emblem |
-| Statue of Liberty | 1886 | Gift from France; liberty and friendship |
+> **E** comes first: 13 stars and 13 stripes for the first 13 states. **D** comes next: when Vermont and Kentucky joined, both stars and stripes increased to 15. **C** shows the 1818 solution—return to 13 stripes and keep adding stars. Many designs followed. **B** has 48 stars in the first officially standardized arrangement. After a one-year 49-star flag, **A** became today's 50-star flag.

@@ -2,113 +2,132 @@
 
 **Host:** Webelos | **Event:** Wed, Aug 26, 2026 | **Rotation Length:** 15 minutes | **Audience:** Cub Scouts of all ranks
 
-> This plan combines two of the suggested station choices: the audience participation story **“Cub Scouts Do Their Best!”** and an **American symbols scavenger hunt**. The story below is an original station script written for this event; it is not identified in the repository as an official Scouting America script.
+> This station combines two activities: an original founding-era audience participation story, **“The Decision for Independence,”** and an **American Flags Through the Years** timeline challenge.
 
 **Reference:** [Liberty in Action Pack Event](../../reference/Liberty_in_Action_Pack_Event.md)
 
 ## Station Goal
 
-Scouts learn that American symbols connect to real moments in the country's history and that citizenship means helping the country live up to its ideals.
-
-By the end of the station, the group should be able to name all four American symbols, and every Scout should have a chance to name or point to at least one symbol and hear its history fact.
+Scouts learn that declaring independence happened through several separate steps, not one single moment. They also see how the American flag changed as the country added states while its 13 stripes continued to represent the original colonies.
 
 ## Advance Preparation
 
-- Print one leader copy of the story from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Print and cut out the four symbol cards from the same resource.
-- Hide the symbol cards within the station boundary before the first rotation. Keep them visible enough for younger Scouts to find.
-- Assign one Webelos or adult as the reset lead. Use the same four hiding places every rotation so the reset takes less than one minute.
-- Set out a small basket or table where Scouts can place the cards they find.
-- Mark a clear station boundary. Do not hide cards near streets, parking areas, doors, climbing hazards, or other stations.
-- Ask one Webelos to narrate and up to four Webelos to demonstrate the audience responses. An adult can narrate if the Scouts have not rehearsed.
+- Print one leader copy of the story and answer key from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
+- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five cards.
+- If possible, rehearse the story once with one Webelos narrator and one cue leader.
+- Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
+- Shuffle the five flag cards before every rotation.
+- Assign one Webelos or adult to collect and reshuffle the cards during the closing message.
 
 ## Supplies
 
-- Printed story script
-- Four printed symbol cards
+- Printed leader script
+- Five printed flag cards
+- **EARLIEST** and **TODAY** labels
 - Scissors or paper cutter for advance preparation only
-- Tape or removable adhesive
-- Basket or small table
 - Timer
-- Optional: four cue cards labeled **SCOUTS**, **LIBERTY**, **FLAG**, and **EAGLE**
+- Optional: five audience-response cue cards
 
 ## 15-Minute Rotation
 
 | Time | Activity |
 | :--- | :--- |
-| 0:00–1:30 | Welcome Scouts, explain the goal, and practice the four audience responses. |
-| 1:30–7:30 | Perform “Cub Scouts Do Their Best!” |
-| 7:30–11:30 | Run the American symbols scavenger hunt. |
-| 11:30–13:30 | Match each symbol to its history fact and ask the learning-check questions. |
-| 13:30–15:00 | Give the closing message, return the cards to their hiding places, and welcome the next group. |
+| 0:00–1:30 | Welcome the group and practice the five audience responses. |
+| 1:30–7:00 | Perform “The Decision for Independence.” |
+| 7:00–11:30 | Scouts arrange five American flags from earliest to current. |
+| 11:30–14:00 | Reveal the answer, discuss the important design changes, and complete the learning check. |
+| 14:00–15:00 | Give the closing message while the reset lead collects and shuffles the cards. |
 
-## Activity 1 — Audience Participation Story
+## Activity 1 — “The Decision for Independence”
 
-Divide a large group into four teams. For a small group, everyone performs every response.
+The audience responses come directly from the people, places, documents, and actions in the story.
+
+For a large group, assign one response to each section. For a small group, everyone performs every response.
 
 | When the narrator says… | Scouts respond… |
 | :--- | :--- |
-| **SCOUT** or **SCOUTS** | Give the Cub Scout sign and say, “Do your best!” |
-| **LIBERTY** or **FREEDOM** | Pretend to ring a bell and say, “Ding, ding!” |
-| **FLAG** | Wave one hand and say, “Stars and stripes!” |
-| **EAGLE** | Spread both arms like wings and say, “Soar!” |
-| **AMERICA** | Everyone performs all four responses, in order. |
+| **CONGRESS** | Tap an imaginary gavel and say, “Order!” |
+| **COLONY** or **COLONIES** | Hold up both hands and say, “Thirteen together!” |
+| **INDEPENDENCE**, **INDEPENDENT**, or **FREE** | Raise both hands and say, “Choose our future!” |
+| **DECLARATION** | Pretend to unroll a document and say, “Hear the reasons!” |
+| **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** | Press both palms down and say, “Ink to paper!” |
 
-Read the story with energy, pause after every cue word, and point to the assigned team if it needs help. The goal is lively participation, not perfect timing.
+Read briskly, pausing after each bold cue word. Point to a group's cue card if it needs help. The complete script is in the printables.
 
-## Activity 2 — American Symbols Scavenger Hunt
+## Activity 2 — American Flags Through the Years
 
-After the story, say:
+Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
 
-> The story left four pieces of history around our station. Stay inside the boundary. Find one card, bring it to the table, and then help someone else instead of collecting a second card.
+This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation.
 
-Give one clue at a time:
+Say:
 
-1. “Find the symbol with stars for the states and stripes for the original colonies.”
-2. “Find the cracked symbol in Philadelphia that reminds people of liberty.”
-3. “Find the national emblem that has feathers and wings.”
-4. “Find the gift from France that holds a torch.”
+> Without looking for dates—there are none on the cards—work together to place these flags from the earliest design to the flag we use today. You may count stars and stripes. Be ready to explain what changed between two neighboring flags.
 
-As each card returns, have the finder show it to the group. Ask the group for the symbol's name, then read the fact on the card. If time is short, place all four cards on the table and let Scouts point to the answers instead of rehiding them.
+### Round 1 — Silent Look (30 seconds)
+
+Card holders examine their flags without changing places.
+
+### Round 2 — Build the Timeline (2 minutes)
+
+Scouts talk, count, and move into chronological order. For younger groups, allow the leader to give the first clue after 30 seconds.
+
+### Optional Clues
+
+Give only as many clues as the group needs:
+
+1. “The first flag has one star and one stripe for each of the original 13 states.”
+2. “For a while, the country added both stars and stripes.”
+3. “In 1818, Congress returned the flag to 13 stripes and used one star for each state.”
+4. “The 48-star design is the first card whose star arrangement was officially standardized.”
+5. “Hawaii provided the 50th star on the flag used today.”
+
+### Reveal
+
+The correct card order is **E → D → C → B → A**.
+
+Walk down the line using the leader answer key. Emphasize:
+
+- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E shows one representative row arrangement.
+- The 15-star flag also had 15 stripes. This is the type of flag that flew at Fort McHenry.
+- Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state.
+- The 48-star arrangement was standardized in 1912.
+- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state.
 
 ## Learning Check
 
-Ask three quick questions. Let younger Scouts answer by pointing to a card.
+Ask:
 
-First ask each Scout to point to one of the four cards and tell a partner the symbol's name. Partners should choose different symbols. Then ask the group:
-
-1. Which symbol has 50 stars today? **The American flag.**
-2. Which symbol became the national emblem in 1782? **The bald eagle.**
-3. What does good citizenship require besides knowing history? **Possible answers: helping the community, respecting other people's rights, participating, serving, or doing our best.**
-
-If time remains, ask: “Which symbol was a gift from France?” **The Statue of Liberty.**
+1. Did Congress vote for independence, adopt the Declaration, and sign the parchment copy all on July 4? **No. They were separate steps on July 2, July 4, and mostly August 2.**
+2. Why does every modern American flag keep 13 stripes? **They represent the original 13 colonies.**
+3. What changes when a state joins the United States? **A star is added on the following July 4.**
 
 ## Closing Message
 
-> Symbols help us remember, but citizenship is something we do. We learn our history, respect the rights of others, help our communities, and do our best.
+> America's founding took debate, decisions, written reasons, printing, and courage. The flag changed as the country grew, but its 13 stripes still point back to the colonies that began the story.
 
 ## Facilitation Notes
 
-- Keep the story brisk. The repeated responses are the fun; the learning check shows whether the history landed.
-- For Lions and Tigers, use all-group responses and allow pointing answers.
-- For older Scouts, ask why a symbol can still matter long after the historical event connected to it.
-- If the group is large, send no more than four searchers at once while everyone else gives “hotter” or “colder” hints.
-- If the station is outdoors or wind is expected, tape cards to fixed surfaces or place each in a weighted clear sleeve.
-- Have the reset lead return the four cards to their fixed hiding places while the narrator gives the closing message.
+- Keep the story lively; it should feel like the audience is inside the crowded room in Philadelphia.
+- For Lions and Tigers, let everyone perform every response and help them count stars by rows.
+- For older Scouts, ask why July 2, July 4, and August 2 each matter.
+- If fewer than five Scouts attend, one Scout or adult may hold more than one flag.
+- If more than five attend, make each card a team and have team members advise their card holder.
+- If color printing is unavailable, label the back of each card with its letter and outline the blue canton with a marker before the event.
 
 ## Safety and Accessibility
 
-- Keep all searching within sight of the station leader.
-- Use reachable hiding places; no running, climbing, crawling under furniture, or moving equipment.
-- Describe each symbol aloud so Scouts do not need to see or read a card to participate.
-- Offer a seated role—narrator helper, cue leader, or answer-card holder—to any Scout who does not want to search.
+- Use a walking pace when changing positions in the flag line.
+- Keep the activity line clear of other station traffic.
+- Describe each flag aloud so Scouts do not need to rely only on color or small visual details.
+- Offer seated roles such as narrator, cue leader, star counter, or answer-key reader.
 
 ## Historical Fact Check
 
-The story facts were checked on Aug 25, 2026 against these primary government sources:
+The story and flag timeline were checked on Aug 25, 2026 against these authoritative sources:
 
 - [Creating the Declaration: A Timeline — National Archives](https://www.archives.gov/founding-docs/timeline)
-- [The Liberty Bell — National Park Service](https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm)
-- [The Great Seal — U.S. Department of State](https://diplomacy.state.gov/the-great-seal/)
-- [The Star-Spangled Banner — National Park Service](https://www.nps.gov/fomc/learn/historyculture/the-star-spangled-banner.htm)
-- [Statue of Liberty National Monument — National Park Service](https://www.nps.gov/stli/index.htm)
+- [Symbols of the United States — Library of Congress](https://www.loc.gov/classroom-materials/symbols-of-the-united-states/)
+- [Today in History: June 14 — Library of Congress](https://www.loc.gov/item/today-in-history/june-14/)
+- [Today in History: April 13 — Library of Congress](https://www.loc.gov/item/today-in-history/april-13/)
+- [The Star-Spangled Banner — Smithsonian National Museum of American History](https://www.americanhistory.si.edu/visual-descriptions/visual-description-star-spangled-banner)
