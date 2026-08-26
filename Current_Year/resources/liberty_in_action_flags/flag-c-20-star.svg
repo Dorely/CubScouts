@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Vector interpretation of an 1818 20-star United States flag</title>
+  <desc id="desc">Thirteen stripes and twenty large stars in four rows of five, inspired by a surviving 1818 flag.</desc>
+  <defs>
+    <polygon id="star" points="0,-1 0.2245,-0.309 0.9511,-0.309 0.3633,0.118 0.5878,0.809 0,0.382 -0.5878,0.809 -0.3633,0.118 -0.9511,-0.309 -0.2245,-0.309" fill="#f7edcf"/>
+    <pattern id="weave" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 1H8 M1 0V8" fill="none" stroke="#392f29" stroke-width="0.35" opacity="0.12"/></pattern>
+    <clipPath id="flag-clip"><rect x="60" y="100" width="1080" height="600" rx="5"/></clipPath>
+  </defs>
+  <rect width="1200" height="800" fill="#f6f0e4"/>
+  <rect x="54" y="106" width="1080" height="600" rx="5" fill="#2f2a24" opacity="0.14"/>
+  <g clip-path="url(#flag-clip)">
+    <rect x="60" y="100" width="1080" height="600" fill="#efe2c4"/>
+    <g fill="#a33f36">
+      <rect x="60" y="100" width="1080" height="46.154"/><rect x="60" y="192.308" width="1080" height="46.154"/>
+      <rect x="60" y="284.616" width="1080" height="46.154"/><rect x="60" y="376.924" width="1080" height="46.154"/>
+      <rect x="60" y="469.232" width="1080" height="46.154"/><rect x="60" y="561.540" width="1080" height="46.154"/>
+      <rect x="60" y="653.846" width="1080" height="46.154"/>
+    </g>
+    <rect x="60" y="100" width="450" height="323.078" fill="#243c56"/>
+    <g>
+      <use href="#star" transform="translate(105 145) scale(18)"/><use href="#star" transform="translate(195 145) scale(18)"/><use href="#star" transform="translate(285 145) scale(18)"/><use href="#star" transform="translate(375 145) scale(18)"/><use href="#star" transform="translate(465 145) scale(18)"/>
+      <use href="#star" transform="translate(105 225) scale(18)"/><use href="#star" transform="translate(195 225) scale(18)"/><use href="#star" transform="translate(285 225) scale(18)"/><use href="#star" transform="translate(375 225) scale(18)"/><use href="#star" transform="translate(465 225) scale(18)"/>
+      <use href="#star" transform="translate(105 305) scale(18)"/><use href="#star" transform="translate(195 305) scale(18)"/><use href="#star" transform="translate(285 305) scale(18)"/><use href="#star" transform="translate(375 305) scale(18)"/><use href="#star" transform="translate(465 305) scale(18)"/>
+      <use href="#star" transform="translate(105 385) scale(18)"/><use href="#star" transform="translate(195 385) scale(18)"/><use href="#star" transform="translate(285 385) scale(18)"/><use href="#star" transform="translate(375 385) scale(18)"/><use href="#star" transform="translate(465 385) scale(18)"/>
+    </g>
+    <rect x="60" y="100" width="1080" height="600" fill="url(#weave)"/>
+  </g>
+  <rect x="60" y="100" width="1080" height="600" rx="5" fill="none" stroke="#5e493b" stroke-width="3" opacity="0.7"/>
+</svg>

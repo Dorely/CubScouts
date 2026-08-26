@@ -58,7 +58,7 @@ Read briskly, pausing after each bold cue word. Point to a group's cue card if i
 
 Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
 
-This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. Each card is a consistently styled educational reconstruction based on a real surviving flag or historical photograph; the source credits and reconstruction notes are in the printables.
+This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. Each card is a consistently styled vector illustration inspired by a real surviving flag or historical photograph; the design references and credits are in the printables.
 
 Say:
 
@@ -88,7 +88,7 @@ The correct card order is **E → D → C → B → A**.
 
 Walk down the line using the leader answer key. Emphasize:
 
-- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable reconstruction informed by a surviving circa-1790 flag, not a mandated arrangement.
+- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable vector interpretation inspired by a surviving circa-1790 flag, not a mandated arrangement.
 - The 15-star flag also had 15 stripes. Card D is informed by the original Star-Spangled Banner that flew at Fort McHenry.
 - Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C follows a surviving 1818 20-star flag.
 - The 48-star arrangement was standardized in 1912. Card B is informed by a 1945 flag made from parachute silk by American prisoners of war.
