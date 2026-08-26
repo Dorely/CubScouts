@@ -13,7 +13,7 @@ Scouts learn that declaring independence happened through several separate steps
 ## Advance Preparation
 
 - Print one leader copy of the story and answer key from the [History & Citizenship printables](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five cards.
+- Print the flag-card page in color using `../../styles/markdown.print.css`, then cut apart the five equal-size cards.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
 - Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
 - Shuffle the five flag cards before every rotation.
@@ -58,7 +58,7 @@ Read briskly, pausing after each bold cue word. Point to a group's cue card if i
 
 Place the **EARLIEST** and **TODAY** labels several feet apart. Give the five shuffled flag cards to five Scouts or small teams.
 
-This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation.
+This is a selected timeline, not all 27 official versions of the flag. It skips several designs—including the 49-star flag used for one year—so the activity can fit the rotation. Each card is a consistently styled educational reconstruction based on a real surviving flag or historical photograph; the source credits and reconstruction notes are in the printables.
 
 Say:
 
@@ -88,11 +88,11 @@ The correct card order is **E → D → C → B → A**.
 
 Walk down the line using the leader answer key. Emphasize:
 
-- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E shows one representative row arrangement.
-- The 15-star flag also had 15 stripes. This is the type of flag that flew at Fort McHenry.
-- Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state.
-- The 48-star arrangement was standardized in 1912.
-- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state.
+- The 1777 resolution did not specify a star arrangement, so early 13-star flags varied. Card E uses a countable reconstruction informed by a surviving circa-1790 flag, not a mandated arrangement.
+- The 15-star flag also had 15 stripes. Card D is informed by the original Star-Spangled Banner that flew at Fort McHenry.
+- Beginning in 1818, the flag returned to 13 stripes, and a star was added for each state. Card C follows a surviving 1818 20-star flag.
+- The 48-star arrangement was standardized in 1912. Card B is informed by a 1945 flag made from parachute silk by American prisoners of war.
+- A 49-star flag was used from July 4, 1959, until the 50-star flag became official on July 4, 1960, after Hawaii became a state. Card A is informed by a 1960 photograph of workers sewing the new design.
 
 ## Learning Check
 
@@ -131,3 +131,8 @@ The story and flag timeline were checked on Aug 25, 2026 against these authorita
 - [Today in History: June 14 — Library of Congress](https://www.loc.gov/item/today-in-history/june-14/)
 - [Today in History: April 13 — Library of Congress](https://www.loc.gov/item/today-in-history/april-13/)
 - [The Star-Spangled Banner — Smithsonian National Museum of American History](https://www.americanhistory.si.edu/visual-descriptions/visual-description-star-spangled-banner)
+- [13-star flag, circa 1790 — Tennessee State Museum](https://tnmuseum.org/TN225/artifacts/016)
+- [The original Star-Spangled Banner — Library of Congress](https://www.loc.gov/pictures/item/2016821431/)
+- [U.S. 20-Star Flag, 1818 — Zaricor Flag Collection](https://www.flagcollection.com/itemdetails.php?CollectionItem_ID=3103)
+- [Flag made by POWs flies over Bataan — DVIDS](https://www.dvidshub.net/image/9871073/flag-made-pows-flies-over-bataan)
+- [Workers sewing 50-star flags, June 1960 — Library of Congress](https://www.loc.gov/pictures/item/2023631223/)

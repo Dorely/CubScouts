@@ -1,6 +1,6 @@
 # Liberty in Action — History & Citizenship Printables
 
-Print one leader copy of the story and answer key. Print the flag-card page in color and cut along the table borders.
+Print one leader copy of the story and answer key. Print the flag-card page in color and cut along the table borders. The five flag images use the same 3:2 canvas so the cards print at equal sizes.
 
 ## Leader Script — “The Decision for Independence”
 
@@ -40,11 +40,13 @@ New York approved the action on July 9. The thirteen **COLONIES** had acted toge
 
 The letters are deliberately out of chronological order. Do not write dates on the fronts.
 
+These are museum-style educational reconstructions based on real historic flags or historical photographs. Their matching backgrounds and straight-on views were generated for this activity; they are not museum photographs.
+
 |  |  |
 | :---: | :---: |
-| **FLAG C**<br><img src="liberty_in_action_flags/flag-c-20-star.svg" alt="Representative 20-star United States flag" style="width: 95%;"> | **FLAG A**<br><img src="liberty_in_action_flags/flag-a-50-star.svg" alt="Current 50-star United States flag" style="width: 95%;"> |
-| **FLAG E**<br><img src="liberty_in_action_flags/flag-e-13-star.svg" alt="Representative 13-star United States flag" style="width: 95%;"> | **FLAG B**<br><img src="liberty_in_action_flags/flag-b-48-star.svg" alt="48-star United States flag" style="width: 95%;"> |
-| **FLAG D**<br><img src="liberty_in_action_flags/flag-d-15-star.svg" alt="15-star and 15-stripe United States flag" style="width: 95%;"> | **EARLIEST** ←————————→ **TODAY** |
+| **FLAG C**<br><img src="liberty_in_action_flags/flag-c-20-star.png" alt="Educational reconstruction of a surviving 1818 20-star United States flag" style="width: 95%;"> | **FLAG A**<br><img src="liberty_in_action_flags/flag-a-50-star.png" alt="Educational reconstruction of a 1960 50-star United States flag" style="width: 95%;"> |
+| **FLAG E**<br><img src="liberty_in_action_flags/flag-e-13-star.png" alt="Educational reconstruction based on a surviving circa-1790 13-star United States flag" style="width: 95%;"> | **FLAG B**<br><img src="liberty_in_action_flags/flag-b-48-star.png" alt="Educational reconstruction based on a 1945 POW-made 48-star United States flag" style="width: 95%;"> |
+| **FLAG D**<br><img src="liberty_in_action_flags/flag-d-15-star.png" alt="Educational reconstruction of the 15-star and 15-stripe Star-Spangled Banner" style="width: 95%;"> | **EARLIEST** ←————————→ **TODAY** |
 
 <div class="page-break"></div>
 
@@ -54,12 +56,22 @@ This selected timeline is not every official version. It omits several designs, 
 
 | Order | Card | Flag and period | Teaching fact |
 | :---: | :---: | :--- | :--- |
-| 1 | **E** | Representative 13-star flag, 1777–1795 | The 1777 resolution required 13 alternating stripes and 13 white stars on blue, but did not specify the star arrangement. Early flag makers used several patterns. |
-| 2 | **D** | 15-star, 15-stripe flag, 1795–1818 | Vermont and Kentucky brought the totals to 15. The Star-Spangled Banner that flew at Fort McHenry used this design. |
-| 3 | **C** | Representative 20-star flag, 1818–1819 | Congress restored the number of stripes to 13 and provided one star for each state. Star arrangements were still not standardized. |
-| 4 | **B** | 48-star flag, 1912–1959 | President Taft standardized the stars into six rows of eight in 1912. |
-| 5 | **A** | 50-star flag, July 4, 1960–present | Hawaii's admission supplied the 50th star. The stars appear in nine staggered rows of six and five. |
+| 1 | **E** | 13-star flag, 1777–1795 | The 1777 resolution required 13 alternating stripes and 13 white stars on blue, but did not specify the star arrangement. Card E uses a countable arrangement and textile character informed by a surviving circa-1790 flag. |
+| 2 | **D** | 15-star, 15-stripe flag, 1795–1818 | Vermont and Kentucky brought the totals to 15. Card D is informed by the original Star-Spangled Banner that flew at Fort McHenry in 1814. |
+| 3 | **C** | 20-star flag, 1818–1819 | Congress restored the number of stripes to 13 and provided one star for each state. Card C follows a surviving 1818 flag with four rows of five stars. |
+| 4 | **B** | 48-star flag, 1912–1959 | President Taft standardized the stars into six rows of eight in 1912. Card B is informed by a 48-star parachute-silk flag made by American prisoners of war in Japan in 1945. |
+| 5 | **A** | 50-star flag, July 4, 1960–present | Hawaii's admission supplied the 50th star. Card A is informed by a 1960 photograph of workers making the new flags, with nine staggered rows of six and five. |
 
 ## Quick Reveal Script
 
 > **E** comes first: 13 stars and 13 stripes for the first 13 states. **D** comes next: when Vermont and Kentucky joined, both stars and stripes increased to 15. **C** shows the 1818 solution—return to 13 stripes and keep adding stars. Many designs followed. **B** has 48 stars in the first officially standardized arrangement. After a one-year 49-star flag, **A** became today's 50-star flag.
+
+## Flag Image References and Credits
+
+The printable images are original AI-generated educational reconstructions made for this station. Real artifacts and historical photographs supplied the design, material, age, and wear references. The uniform ivory backing, straight-on presentation, and complete countable star fields are interpretive. Do not present the card images as direct photographs of the objects.
+
+- **Card E:** [13-star flag, circa 1790 — Tennessee State Museum](https://tnmuseum.org/TN225/artifacts/016), Tennessee Historical Society, accession 2.186.1. The surviving textile is heavily damaged; the card restores a clearly countable 13-star field in one historically possible arrangement.
+- **Card D:** [The original Star-Spangled Banner — Library of Congress](https://www.loc.gov/pictures/item/2016821431/), National Photo Company Collection, LC-F81-2525. The source photograph has no known restrictions on publication.
+- **Card C:** [U.S. 20-Star Flag, 1818 — Zaricor Flag Collection](https://www.flagcollection.com/itemdetails.php?CollectionItem_ID=3103), ZFC0625, Mastai—Early American Flags. The collection photograph was used only as a visual reference and is not reproduced in this repository.
+- **Card B:** [Flag made by POWs flies over Bataan — DVIDS](https://www.dvidshub.net/image/9871073/flag-made-pows-flies-over-bataan), U.S. Navy photograph by MCSSA Jackson C. Rott. The source photograph is public domain.
+- **Card A:** [Workers sewing 50-star flags, June 1960 — Library of Congress](https://www.loc.gov/pictures/item/2023631223/), photograph by John T. Bledsoe, LC-U9-4644-13. The source photograph has no known restrictions on publication.
