@@ -43,6 +43,10 @@ Discuss with your parent or legal guardian what it means to be reverent. Tell ho
 - **Reverence Reflection**: Discuss what it means to be reverent and how you practice being reverent in your daily life.
 - **Tree of Reverence**: This activity will set a calm and reflective tone as Cub Scouts and their families arrive for the Reverence Adventure. It encourages participants to think about and express what reverence means to them in a creative way.
 
+## Family Preparation Resource
+
+Checked September 19, 2026: the official [My Family Passport activity](https://www.scouting.org/cub-scout-activities/my-family-passport-req-1/) links to the [Webelos My Family 1-4 Passport](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Family%201-4%20Passport.pdf). Print one per Scout, explain the family work, agree on a return date, and ask families to record completion and return the passport. The passport covers requirements 1-4.
+
 ## Safety Notes
 - Prior to any activity, use Scouting America’s SAFE Checklist to ensure the safety of all those involved.
 - All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.

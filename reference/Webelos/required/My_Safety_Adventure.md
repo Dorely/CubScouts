@@ -35,6 +35,15 @@ Complete the Be Prepared for Natural Events worksheet. Complete a worksheet for 
 ### Requirement 4 Activities
 - **Be Prepared for Natural Events**: Complete the "Be Prepared for Natural Events" worksheet.
 
+## Activity Preparation and Resources
+
+Checked against official activity pages on September 19, 2026.
+
+- [Protect Yourself Video Webelos](https://www.scouting.org/cub-scout-activities/protect-yourself-video-webelos/) calls for parent/guardian co-viewing at home or at the meeting. The video is 22 minutes. Share the [parent notification](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%201%20Parent%20Notification.pdf), obtain the permission required by Req 1, and arrange a device with access to the [Webelos video](https://vimeo.com/901242653).
+- [Be Prepared for Natural Events](https://www.scouting.org/cub-scout-activities/be-prepared-for-natural-events/) provides the [official worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%204%20Be%20Prepared%20for%20Natural%20Events.pdf). Supply pencils and the handbook; provide enough worksheet copies to address at least two locally likely events. Scouts review their plans with families afterward.
+- [Safe Den Meeting Checklist](https://www.scouting.org/cub-scout-activities/safe-den-meeting-checklist/) uses the [Meeting Location Safety Checklist](https://filestore.scouting.org/filestore/pdf/mpinsp.pdf), with one copy and pencil per buddy group.
+- [Safe Home Safety Checklist](https://www.scouting.org/cub-scout-activities/safe-home-safety-checklist/) can use the handbook or its linked home checklist. The den activity also lists a [Webelos Safe Space Checklist](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20My%20Safety%203%20Safe%20Space%20Checklist.pdf) in Additional Resources; the home activity's similarly named download points to a different checklist, so use the resource matching the chosen activity.
+
 ## Safety Notes
 - Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
 - All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.

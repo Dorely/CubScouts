@@ -23,6 +23,9 @@ h2 { font-size: 16pt; margin: 18pt 0 8pt; }
 h3 { font-size: 14pt; margin: 16pt 0 6pt; }
 h4 { font-size: 12pt; margin: 14pt 0 6pt; }
 
+/* Keep lesson and guide section headings with the following content. */
+h1, h2 { page-break-after: avoid; break-after: avoid-page; }
+
 /* Keep month headings with first table row when possible */
 h3 + table, h4 + table { page-break-inside: avoid; break-inside: avoid; page-break-before: avoid; break-before: avoid-page; }
 h3, h4 { page-break-after: avoid; break-after: avoid-page; }

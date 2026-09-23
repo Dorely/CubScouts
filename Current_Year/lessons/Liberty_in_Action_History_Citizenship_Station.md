@@ -13,20 +13,20 @@ Scouts learn that declaring independence happened through several separate steps
 ## Advance Preparation
 
 - Print one leader copy of the [leader script and answer key](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
-- Print and cut apart the five [audience-response cue cards](../resources/Liberty_in_Action_Audience_Response_Cards.md); keep the sixth leader-reminder card with the script.
+- Print the [audience-response poster](../resources/Liberty_in_Action_Audience_Response_Cards.md) and display it where everyone can see it.
 - Print the [flag cutouts](../resources/Liberty_in_Action_Flag_Cards.md) in color using `../../styles/markdown.print.css`, then cut apart the six cards.
+- Optional: Print the [flag timeline layout mat](../resources/Liberty_in_Action_Flag_Timeline_Mat.md) to lay across the table as labeled placement slots.
 - If possible, rehearse the story once with one Webelos narrator and one cue leader.
-- Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right.
+- Mark a short line on the ground or table from **EARLIEST** on the left to **TODAY** on the right (or lay out the timeline mat).
 - Shuffle the six flag cards before every rotation.
 - Assign one Webelos or adult to collect and reshuffle the cards during the closing message.
 
 ## Supplies
 
 - Printed leader script
-- Five audience-response cue cards
-- Leader-reminder card
+- Audience-response poster
 - Six printed flag cards
-- **EARLIEST** and **TODAY** labels
+- Timeline placement mat (or **EARLIEST** and **TODAY** labels)
 - Scissors or paper cutter for advance preparation only
 - Timer
 
@@ -42,19 +42,19 @@ Scouts learn that declaring independence happened through several separate steps
 
 ## Activity 1 — “The Decision for Independence”
 
-The audience responses come directly from the people, places, documents, and actions in the story.
+The audience responses use famous founding-era quotes and matching actions.
 
 For a large group, assign one response to each section. For a small group, everyone performs every response.
 
 | When the narrator says… | Scouts respond… |
 | :--- | :--- |
-| **CONGRESS** | Tap an imaginary gavel and say, “Order!” |
-| **COLONY** or **COLONIES** | Hold up both hands and say, “Thirteen together!” |
-| **INDEPENDENCE**, **INDEPENDENT**, or **FREE** | Raise both hands and say, “Choose our future!” |
-| **DECLARATION** | Pretend to unroll a document and say, “Hear the reasons!” |
-| **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** | Press both palms down and say, “Ink to paper!” |
+| **CONGRESS** | Tap an imaginary gavel and say, “United we stand!” *(John Dickinson)* |
+| **COLONY** or **COLONIES** | Hold up both hands and say, “Courage, then, Americans!” *(Samuel Adams)* |
+| **INDEPENDENCE**, **INDEPENDENT**, or **FREE** | Raise both hands and say, “Give me liberty!” *(Patrick Henry)* |
+| **DECLARATION** | Pretend to unroll a document and say, “All men are created equal!” *(Thomas Jefferson)* |
+| **PRINT**, **PRINTED**, **PRINTER**, or **COPIES** | Press both palms down and say, “Truth will ultimately prevail!” *(George Washington)* |
 
-Read briskly, pausing after each bold cue word. Point to a group's cue card if it needs help. The complete script is in the [leader printable](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
+Read briskly, pausing after each bold cue word. Point to the poster if the group needs help. The complete script is in the [leader printable](../resources/Liberty_in_Action_History_Citizenship_Printables.md).
 
 ## Activity 2 — American Flags Through the Years
 

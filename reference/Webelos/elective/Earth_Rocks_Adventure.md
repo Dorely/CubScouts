@@ -38,6 +38,15 @@ Grow a crystal.
 - **Crystal Shapes**: Cub Scouts create their own crystal.
 - **Sweet Crystal**: Cub Scouts create their own crystal that they can eat.
 
+## Activity Preparation Details
+
+Checked against official activity pages on September 19, 2026.
+
+- [Mineral Lab](https://www.scouting.org/cub-scout-activities/mineral-lab/): Gather at least two mineral types. Each testing kit uses a penny, small piece of glass, unglazed tile, metal file, eyedropper, and safety glasses; share vinegar and provide paper and the handbook/Mohs scale. Try the kit before the meeting. Include the requirement's rock-cycle chart and discussion of material uses.
+- [Break a Geode](https://www.scouting.org/cub-scout-activities/break-a-geode/): Provide a geode, old sock, safety glasses, and magnifier per Scout, with a shared geology hammer. Obtain an extra geode and practice opening it before the meeting; arrange an outdoor work area.
+- [Crystal Shapes](https://www.scouting.org/cub-scout-activities/crystal-shapes/): Uses pipe cleaners, cups, fishing line, wooden skewers, borax, boiling water, table covering, and disposable gloves. An adult prepares the solution. Grow a sample ahead of time and arrange an undisturbed place for the Scouts' crystals overnight or longer. Follow the linked recipe for quantities.
+- [Sweet Crystal](https://www.scouting.org/cub-scout-activities/sweet-crystal/): Uses sugar, water, a pan and heat source, measuring cup, jars, wooden skewers, clothespins, paper towels, and table covering; coloring and flavoring are optional. Prepare and cool the syrup before use. Allow about a week for crystal growth and plan storage and collection. Follow the linked recipe for quantities.
+
 ## Safety Notes
 - Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
 - All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.

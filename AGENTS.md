@@ -56,6 +56,18 @@ Do not skip ahead, invent requirements, or pull in external content unless that 
 - Keep each document focused on one purpose.
 - Do not add external URLs or copied source content unless the source and need are part of the task.
 
+### Lesson Plan Standard
+
+- Reuse existing adventure lesson documents as concise, undated shells unless a fully developed plan is explicitly requested. Leave completed adventures unchanged unless asked to revise them.
+- After the document title, start with a bullet checklist of the full numbered requirements. Follow it with suggested lesson-day groupings, then a resource section of website-recommended activities grouped by requirement.
+- Remind leaders to start each den meeting with a denner-led game and involve the denner in setup, activities, and closing.
+- For each suggested day, family session, or outing, list the requirements covered, approximate time, and concise preparation and materials needed. Preserve required participants, sequencing, prerequisites, and explicit durations or distances.
+- Write direct leader-facing copy. Omit caveats and commentary about the document, such as "these are suggestions, not extra requirements," "not a replacement," and explanations of what the plan does not do. Use section headings to establish the structure.
+- Give approximate session lengths without a minute-by-minute agenda. Keep the activity resource section easy to browse, with names and brief descriptions for each requirement.
+- Omit generic safety boilerplate and standalone Safety Notes sections from authored lesson plans and templates. Preserve safety content that is an actual requirement and concrete prerequisites or equipment needed for the activity.
+- Use local adventure references first. Fill Webelos reference gaps by starting at the [official Webelos Adventures page](https://www.scouting.org/programs/cub-scouts/adventures/webelos/) and following the relevant official adventure, activity, and resource links. Update the reference with the sourced information and direct links before using it in a lesson. Resolve discovered discrepancies against the official source; identify any remaining inaccessible or unclear detail rather than inventing it.
+- Put relative links to the local reference and links to official adventure sources in the activity resource section. Keep documents in the correct required or elective folder.
+
 ## Print
 
 Use `styles/markdown.print.css` for Markdown print and PDF output from VS Code's Print extension.

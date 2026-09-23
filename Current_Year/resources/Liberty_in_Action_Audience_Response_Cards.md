@@ -1,13 +1,34 @@
-# Liberty in Action — Audience-Response Cue Cards
-
-Print one copy and cut along the table borders. Cut five response cards and one leader reminder. For a large group, give one response card to each section. For a small group, display all five response cards and have everyone perform every response.
-
 <style>
-table td { height: 1.45in; vertical-align: middle; font-size: 13pt; }
+@page { margin: 0; }
+html, body { margin: 0 !important; padding: 0 !important; }
+table {
+  width: 100% !important;
+  height: 100vh;
+  margin: 0 !important;
+  border-collapse: separate !important;
+  border-spacing: 6pt !important;
+  table-layout: fixed !important;
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+}
+td {
+  height: 1.7in;
+  vertical-align: middle !important;
+  text-align: center;
+  border: 2.5pt solid #000 !important;
+  padding: 10pt 14pt !important;
+  font-size: 12pt !important;
+  background: #fff !important;
+}
+td strong { display: block; font-size: 12pt; text-transform: uppercase; letter-spacing: 2pt; margin-bottom: 4pt; }
+span.quote { display: block; font-size: 24pt; font-weight: 700; line-height: 1.15; margin: 4pt 0; }
+span.attr { display: block; font-size: 11pt; font-style: italic; margin-top: 2pt; }
 </style>
 
-|  |  |
-| :---: | :---: |
-| **CONGRESS**<br><br>Tap an imaginary gavel.<br><br>Say: **“Order!”** | **COLONY / COLONIES**<br><br>Hold up both hands.<br><br>Say: **“Thirteen together!”** |
-| **INDEPENDENCE / INDEPENDENT / FREE**<br><br>Raise both hands.<br><br>Say: **“Choose our future!”** | **DECLARATION**<br><br>Pretend to unroll a document.<br><br>Say: **“Hear the reasons!”** |
-| **PRINT / PRINTED / PRINTER / COPIES**<br><br>Press both palms down.<br><br>Say: **“Ink to paper!”** | **LEADER REMINDER**<br><br>Practice all five responses before beginning the story.<br><br>Pause after every bold cue word. |
+|  |
+| :---: |
+| **CONGRESS**<br><span class="quote">“United we stand!”</span><br><span class="attr">— John Dickinson</span> |
+| **COLONY / COLONIES**<br><span class="quote">“Courage, then, Americans!”</span><br><span class="attr">— Samuel Adams</span> |
+| **INDEPENDENCE / INDEPENDENT / FREE**<br><span class="quote">“Give me liberty, or give me death!”</span><br><span class="attr">— Patrick Henry</span> |
+| **DECLARATION**<br><span class="quote">“All men are created equal!”</span><br><span class="attr">— Thomas Jefferson</span> |
+| **PRINT / PRINTED / PRINTER / COPIES**<br><span class="quote">“Truth will ultimately prevail!”</span><br><span class="attr">— George Washington</span> |

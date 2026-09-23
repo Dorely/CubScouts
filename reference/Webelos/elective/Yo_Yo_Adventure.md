@@ -51,6 +51,13 @@ Attempt each of the following: gravity pull, sleeper, breakaway.
 ### Requirement 7 Activities
 - **Yo-Yo Ninja**: Cub Scouts attempt each of the following yo-yo tricks: the gravity pull, the sleeper, and the breakaway.
 
+## Activity Preparation Details
+
+Checked against official activity pages on September 19, 2026.
+
+- [Aye String](https://www.scouting.org/cub-scout-activities/aye-string/) needs one yo-yo and string per Scout, shared scissors, a permanent marker, and a device for the tutorial. The official tip recommends combining this activity with requirements 3, 4, and 6. Preview the tutorial and set up room for practice.
+- [Swinging](https://www.scouting.org/cub-scout-activities/swinging/) needs one yo-yo and pencil per Scout, a stopwatch, and the handbook or [Pendulum Experiment worksheet](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Yo-yo%205%20Pendulum%20Experiment.pdf), plus the [experiment visual](https://filestore.scouting.org/filestore/cubscouts/adventure-resources/webelos/Webelos%20Yo-yo%205%20Pendulum%20Experiment%202%20Visual.pdf). It compares swing periods at different string lengths; the longer string gives a longer period. Preview the linked tutorial before leading it.
+
 ## Safety Notes
 - Prior to any activity, use Scouting America SAFE Checklist to ensure the safety of all those involved.
 - All participants in official Scouting America activities should become familiar with the Guide to Safe Scouting and applicable program literature or manuals.

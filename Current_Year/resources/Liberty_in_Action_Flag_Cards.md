@@ -1,5 +1,3 @@
-# Liberty in Action — American Flags Through the Years
-
 <style>
 .flag-page {
   width: 100%;
@@ -37,21 +35,10 @@
 
 <table class="flag-page">
   <tr>
-    <td><strong>FLAG C</strong><br><img src="liberty_in_action_flags/flag-c-20-star.svg" alt="Twenty-star United States flag used from 1818 to 1819"></td>
+    <td><strong>20-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-c-20-star.svg" alt="Twenty-star United States flag used from 1818 to 1819"></td>
   </tr>
   <tr>
-    <td><strong>FLAG A</strong><br><img src="liberty_in_action_flags/flag-a-50-star.svg" alt="Current fifty-star United States flag"></td>
-  </tr>
-</table>
-
-<div class="page-break"></div>
-
-<table class="flag-page">
-  <tr>
-    <td><strong>FLAG E</strong><br><img src="liberty_in_action_flags/flag-e-13-star.svg" alt="Thirteen-star United States flag used from 1777 to 1795"></td>
-  </tr>
-  <tr>
-    <td><strong>FLAG B</strong><br><img src="liberty_in_action_flags/flag-b-48-star.svg" alt="Forty-eight-star United States flag used from 1912 to 1959"></td>
+    <td><strong>50-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-a-50-star.svg" alt="Current fifty-star United States flag"></td>
   </tr>
 </table>
 
@@ -59,9 +46,20 @@
 
 <table class="flag-page">
   <tr>
-    <td><strong>FLAG D</strong><br><img src="liberty_in_action_flags/flag-d-15-star.svg" alt="Fifteen-star and fifteen-stripe Star-Spangled Banner design used from 1795 to 1818"></td>
+    <td><strong>13-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-e-13-star.svg" alt="Thirteen-star United States flag used from 1777 to 1795"></td>
   </tr>
   <tr>
-    <td><strong>FLAG F</strong><br><img src="liberty_in_action_flags/flag-f-49-star.svg" alt="Forty-nine-star United States flag used from 1959 to 1960"></td>
+    <td><strong>48-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-b-48-star.svg" alt="Forty-eight-star United States flag used from 1912 to 1959"></td>
+  </tr>
+</table>
+
+<div class="page-break"></div>
+
+<table class="flag-page">
+  <tr>
+    <td><strong>15-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-d-15-star.svg" alt="Fifteen-star and fifteen-stripe Star-Spangled Banner design used from 1795 to 1818"></td>
+  </tr>
+  <tr>
+    <td><strong>49-STAR FLAG</strong><br><img src="liberty_in_action_flags/flag-f-49-star.svg" alt="Forty-nine-star United States flag used from 1959 to 1960"></td>
   </tr>
 </table>
